@@ -23,6 +23,7 @@ jobs:
 
           for url in \
             "https://gitlab.com/ridjals739/ppv-playlist/-/raw/main/myplaylist.m3u" \
+            "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u" \
             "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"
           do
             echo "🔹 Merging $url ..."
