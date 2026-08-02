@@ -37,7 +37,6 @@ https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 #EXTINF:-1 tvg-id="(no tvg-id)" catchup="https://deptokv1.herokuapp.com/index.m3u8?id=204" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" tvg-name="SCTV" group-title="Lokal",SCTV+
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 
-
 #EXTINF:-1 tvg-id="(no tvg-id)" catchup="https://deptokv1.herokuapp.com/index.m3u8?id=204" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" tvg-name="SCTV" group-title="Lokal",SCTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -83,12 +82,6 @@ https://beetv.my.id/stream/rctiplus.m3u8?ch=mnctv
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Lokal", RCTI+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Lokal", RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -2462,7 +2455,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22f2462cfd12430b83ad7f1b84fb50c0:c3b18efc9e6e13f3870f7ff63a2e7ccb
+#KODIPROP:inputstream.adaptive.license_key=cbeb1cc94ed84765bff26a6c51637022:16193cd559e866fd4f2b283036bf03ff
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 group-title="Sports ID" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id
@@ -2474,7 +2467,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTINF:-1 group-title="Sports ID" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel FHD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+#KODIPROP:inputstream.adaptive.license_key=b0bfe7774e7b4a3190a4a2acf5eb619e:f1bcd74ca8b0574929770bcf130bd209
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 group-title="Sports ID" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
@@ -2539,7 +2532,7 @@ https://svod.mana2.my/SpotvNow/index.mpd
 #EXTINF:-1 tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports ID",BeIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298}
+#KODIPROP:inputstream.adaptive.license_key=7c0fa4e3a2d54661a687fe9afdfc0466:e5543c1ba9128b0de31a3f5e1c7690ba
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 #EXTINF:-1 tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="Sports ID",BeIN Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -2551,7 +2544,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#KODIPROP:inputstream.adaptive.license_key=bb0fbf06a58f445898ac4fc0f1b149cc:0ae241edf90f7a7200086d07cac67fda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports ID", beIN Sports 2 HD
@@ -4896,12 +4889,12 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:32:21 PM 02-08-2026
+#last update time: 7:47:26 PM 02-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Tour%2023%E2%80%9324%20%20Manila.jpg" group-title="LIVE", Asian Tour 23–24 | Manila - Asian Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1785763942-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8aca1a8dffbe7d97c0d9f3c641cd6e92
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1785764847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-10df50c012dfd2271821d5ae78f7af2a
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Changchun%20Yatai%20vs%20Hebei%20Kungfu.jpg" group-title="LIVE", Changchun Yatai vs Hebei Kungfu - League One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -4918,30 +4911,25 @@ https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae207-cnh
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae206-cnhd/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=0562e1c133cd69e6c928a891e8cc1c10&x-time=1785673920
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liaoning%20Ironman%20vs%20Shanghai%20Shenhua.jpg" group-title="LIVE", Liaoning Ironman vs Shanghai Shenhua - China Super League [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Shenzhen%20Xinpengcheng%20vs%20Chongqing%20Tonglianglong.jpg" group-title="LIVE", Shenzhen Xinpengcheng vs Chongqing Tonglianglong - China Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae213/chunks.m3u8?is_vip=false&token=1785763948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cfd63e093103941fd7c2dcbbbdc3376b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf5bd8b58515014722c/chunks.m3u8?is_vip=false&token=1785764855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23b89dcc6c2db5334d31620a87ad00b6
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liaoning%20Ironman%20vs%20Shanghai%20Shenhua.jpg" group-title="LIVE", Liaoning Ironman vs Shanghai Shenhua - China Super League [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IF%20Brommapojkarna%20vs%20Malmo%20FF.jpg" group-title="LIVE", IF Brommapojkarna vs Malmo FF - Allsvenskan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae213-cnhd/chunks.m3u8?is_vip=false&token=1785763949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a5218c04505ed5a4cd88b2c960fabcce
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Nordsjaelland%20vs%20Randers%20FC.jpg" group-title="LIVE", FC Nordsjaelland vs Randers FC - Superliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae216/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=99b14334ab73b20e23ae52529a6821fa&x-time=1785675720
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae223/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=08f15f7055ffb609bb61d53219a80e14&x-time=1785678420
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Midtjylland%20vs%20AC%20Horsens.jpg" group-title="LIVE", FC Midtjylland vs AC Horsens - Superliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae215-hd/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=0ea4f7084f1258910cb03bbe9d3a8d56&x-time=1785677520
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/IF%20Brommapojkarna%20vs%20Malmo%20FF.jpg" group-title="LIVE", IF Brommapojkarna vs Malmo FF - Allsvenskan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Nordsjaelland%20vs%20Randers%20FC.jpg" group-title="LIVE", FC Nordsjaelland vs Randers FC - Superliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae223/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=5bbb3d824e18a4e01ad87344fde24c84&x-time=1785674820
+https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae216/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=fd8c05078004393672334bb8dbc059d8&x-time=1785678420
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Volendam%20vs%20Ajax.jpg" group-title="LIVE", FC Volendam vs Ajax - Friendlies Clubs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -4953,47 +4941,47 @@ https://livecdn-bp-livestream.rumsport10.live/sla/1-6a6b7c5c2d5e658d654f2d1b/chu
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a6ccdbe2a077688801dcfa1/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=82d1372940896211348b8ca6e98312f2&x-time=1785675720
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Legia%20Warsaw%20vs%20Zaglebie%20Lubin.jpg" group-title="LIVE", Legia Warsaw vs Zaglebie Lubin - Poland Ekstraklasa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae21d-hd/chunks.m3u8?is_vip=false&token=1785763959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e32cf3ad4b103f34b7d898fc566d9b47
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Legia%20Warszawa%20vs%20Zaglebie%20Lubin.jpg" group-title="LIVE", Legia Warszawa vs Zaglebie Lubin - Ekstraklasa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae21d-hd/chunks.m3u8?is_vip=false&token=edcb381b402a9d3b83c369dc063ab6747063ec51&x-sign=801a02250f6b9cf9c80a4d13b8543d11&x-time=1785677520
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St%20Johnstone%20vs%20Kilmarnock.jpg" group-title="LIVE", St Johnstone vs Kilmarnock - Scotland Premiership [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Legia%20Warsaw%20vs%20Zaglebie%20Lubin.jpg" group-title="LIVE", Legia Warsaw vs Zaglebie Lubin - Poland Ekstraklasa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae21e/chunks.m3u8?is_vip=false&token=1785763961-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f0c50ddc9e5a309054c4bc18836f463
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae21d-hd/chunks.m3u8?is_vip=false&token=1785764867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2871bc9b8409934529d2aae4fd637594
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St%20Johnstone%20vs%20Kilmarnock.jpg" group-title="LIVE", St Johnstone vs Kilmarnock - Scotland Premiership [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Orenburg%20vs%20Zenit%20St%20Petersburg.jpg" group-title="LIVE", FC Orenburg vs Zenit St Petersburg - Russia Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae21e-hd/chunks.m3u8?is_vip=false&token=1785763962-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2497c5d19dacb6da45d5f1fd1718d38a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4d1bf630392eaef43e132b/chunks.m3u8?is_vip=false&token=1785764869-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ca5e707ff7d839c7fc4e0fc8f4a0191
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Boland%20Kavaliers%20vs%20Pumas.jpg" group-title="LIVE", Boland Kavaliers vs Pumas - Currie Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1785763964-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94e91b815027ca23b0bcee56d341821b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143071/720p/chunks.m3u8?is_vip=false&token=1785764870-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2bcde8087f69205cdd32e181249010d5
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%202.jpg" group-title="Cycling", Tour de France Femmes - Stage 2 - UCI Women's World Tour
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/St%20Johnstone%20vs%20Kilmarnock.jpg" group-title="LIVE", St Johnstone vs Kilmarnock - Scotland Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1785763967-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5093b8294ee442181594c932d9240183
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a4e6d30818b53788ceae21e/chunks.m3u8?is_vip=false&token=1785764872-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-970a6384342ff91fc3fc5f8a6d7b24e3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race%20Day%20Part%202%20Flanders.jpg" group-title="Auto Racing", Race Day Part 2: Flanders - MXGP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%202.jpg" group-title="LIVE", Tour de France Femmes - Stage 2 - UCI Women's World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/720p/chunks.m3u8?is_vip=false&token=1785763967-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-051f6dc32ae46832469de2ee0127078e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1785764873-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dbc7fadbd849fb62710a5dac2553982e
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="Cricket", West Indies vs Pakistan - 2nd Test
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race%20Day%20Part%202%20Flanders.jpg" group-title="LIVE", Race Day Part 2: Flanders - MXGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785763967-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c121cd0e34e286a2c487ec93f44ddf79
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/720p/chunks.m3u8?is_vip=false&token=1785764875-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f4a77bad8cbad39d6980e3d56f17555
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 2nd Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785764877-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f001a00109fb34b9114252de1d7534c
 
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-08-02T13:45:23Z (ID: e0ebd48a-f821-4b08-9742-a4b6c3c6e1f8)
+# Auto-updated at 2026-08-02T14:00:34Z (ID: 6180c427-a506-4567-8c6a-f0903eea8e94)
