@@ -4886,7 +4886,7 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #EXTM3U billed-msg="Playlist ini tidak di jual Gunakan Ott Navigator V1.7 | Playlist tidak di jual!!!"
 # ✅ Successfully merged https://gitlab.com/ridjals739/ppv-playlist/-/raw/main/myplaylist.m3u
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:32 PM 03-08-2026
+#LAST_UPDATE:04:02 PM 03-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -4904,7 +4904,7 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
 
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
@@ -4912,14 +4912,14 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 3:47:22 PM 03-08-2026
+#last update time: 4:02:25 PM 03-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES2%2C%20Tour%20of%20Poland%2C%20Stage%201.jpg" group-title="LIVE", ES2, Tour of Poland, Stage 1 - UCI World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1785836843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-010e41bb2cdfb8f9abfa062a9d488d66
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1785837749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6acb62bbbcb524430a4a4e392ac21e16
 
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-08-03T10:00:34Z (ID: 4906774c-a7c9-401a-a6c5-7eddca7c95df)
+# Auto-updated at 2026-08-03T10:15:19Z (ID: f3146b23-f048-4bcb-82ac-134f9ecf06f2)
