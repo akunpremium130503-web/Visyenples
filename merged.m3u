@@ -4874,7 +4874,7 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #EXTM3U billed-msg="Playlist ini tidak di jual Gunakan Ott Navigator V1.7 | Playlist tidak di jual!!!"
 # ✅ Successfully merged https://gitlab.com/ridjals739/ppv-playlist/-/raw/main/myplaylist.m3u
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:02 AM 05-08-2026
+#LAST_UPDATE:12:32 AM 05-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -4892,7 +4892,7 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u
@@ -4900,39 +4900,29 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:17:39 AM 05-08-2026
+#last update time: 12:32:28 AM 05-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785953860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b77f1eb0c061abf97bc163be55682802
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1785954749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2df7ea584f9a476c8e2251dce2d27560
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup%201.jpg" group-title="LIVE", Rogers Cup 1 - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1785953862-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-71c4ffa0c5ba22e8a296593f1a6c9828
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1785954751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a5ce8770cf55b57bf0f4df24f4221b2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup%202.jpg" group-title="LIVE", Rogers Cup 2 - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/270371/720p/chunks.m3u8?is_vip=false&token=1785953864-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-79d9d59a5bbf477f2bacdbc99288e847
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Duncan%20Chan%20vs%20Thiago%20Agustin%20Tirante.jpg" group-title="LIVE", Duncan Chan vs Thiago Agustin Tirante - Rogers Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510511/720p/chunks.m3u8?is_vip=false&token=1785953866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-41ca459793168c5e4f1d10391e281186
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Adam%20Walton%20vs%20%20Jenson%20Brooksby.jpg" group-title="LIVE", Adam Walton vs  Jenson Brooksby - Rogers Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510512/720p/chunks.m3u8?is_vip=false&token=1785953867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-495837afba240f46c47de94b882b8e4b
+https://livecdn-tc-iptv.rumsport10.live/live_abr/270371/720p/chunks.m3u8?is_vip=false&token=1785954754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-be246ee033ba4c3fb4a65939e0e0b0ae
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20vs%20Spirit.jpg" group-title="LIVE", Leeds vs Spirit - The Hundred
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1785953869-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d2ebcecef6ba21eaf8ede59ab9a613f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1785954756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fa87f7b433774a748e53f29e91b6664
 
 
 # ✅ Successfully merged https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u
 
-# Auto-updated at 2026-08-04T18:30:26Z (ID: ebb17c36-9e6e-4ee8-b7d9-1b6099967434)
+# Auto-updated at 2026-08-04T18:45:23Z (ID: d7987b2f-906b-489c-a984-83bc312b3027)
