@@ -3,7 +3,7 @@ name: Merge IPTV Playlists from URLs
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/17 * * * *" #
+    - cron: "*/20 * * * *"
 
 permissions:
   contents: write
@@ -18,7 +18,7 @@ jobs:
 
       - name: Download and merge playlists
         run: |
-          # Buat header M3U utama
+          # Buat file baru dengan header M3U standar
           echo "#EXTM3U" > merged.m3u
 
           for url in \
@@ -28,19 +28,21 @@ jobs:
             "https://colloriptvpro.biz.id/micin"
           do
             echo "🔹 Merging $url ..."
-            if curl -sf "$url" | tail -n +2 >> merged.m3u; then
+            
+            # Unduh konten dengan User-Agent browser & follow redirect (-L)
+            CONTENT=$(curl -sfL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" "$url")
+
+            if [ -n "$CONTENT" ]; then
+              # Hapus header #EXTM3U dari playlist sumber agar tidak terduplikasi
+              echo "$CONTENT" | sed '/^#EXTM3U/d' >> merged.m3u
               echo "" >> merged.m3u
-              echo "# ✅ Successfully merged $url" >> merged.m3u
+              echo "✅ Successfully merged $url"
             else
-              echo "# ❌ Failed to load $url" >> merged.m3u
+              echo "❌ Failed to load $url"
             fi
           done
 
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          UUID=$(cat /proc/sys/kernel/random/uuid)
-          
-          echo "" >> merged.m3u
-          echo "# Auto-updated at $TIMESTAMP (ID: $UUID)" >> merged.m3u
           echo "✅ Merge complete at $TIMESTAMP"
 
       - name: Commit and push merged file
@@ -50,10 +52,12 @@ jobs:
 
           git add merged.m3u
           
-          # Hanya commit & push jika ada perubahan pada file
-          if git commit -m "Auto merge playlists [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]"; then
+          # Hanya commit & push jika file merged.m3u mengalami perubahan
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan data playlist."
+          else
+            git commit -m "Auto merge playlists [$(date -u +'%Y-%m-%dT%H:%M:%SZ')]"
             git pull origin main --rebase
             git push origin main
-          else
-            echo "Tidak ada perubahan data playlist."
           fi
+          
