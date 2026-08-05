@@ -4873,10 +4873,10 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:08:32 PM 05-08-2026
+#LAST_UPDATE:09:02 PM 05-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:5
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HBMNQNMD" tvg-name="Trent Rockets vs. Birmingham Phoenix" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.52249638-225a-477d-8493-b017389a1327/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Trent Rockets vs. Birmingham Phoenix
@@ -4884,30 +4884,32 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H93ZRTCZ" tvg-name="Canada, ATP/WTA 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.683cf6ad-3b6d-4baf-bf52-1e88ac0cef0c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Canada, ATP/WTA 2nd Round
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H9SJHZV8" tvg-name="Phygital Football, Group Stage" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2cf576b-0c93-48ae-9f5f-13a3fde199ce/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Phygital Football, Group Stage
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:47:25 PM 05-08-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES2%2C%20Tour%20of%20Poland%2C%20Stage%203.jpg" group-title="LIVE", ES2, Tour of Poland, Stage 3 - UCI World Tour
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786027646-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5b5fb7686cd45dbb238767b57f6868e
+#last update time: 9:02:47 PM 05-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%205.jpg" group-title="LIVE", Tour de France Femmes - Stage 5 - UCI Women's World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786027649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9a47aa6fe0221c05f4f965eea82a23c2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786028568-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d051c46a07c5a4e5f275f3e12a9834d1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Ajax%20W%20vs%20Br%C3%B8ndby%20W.jpg" group-title="LIVE", Ajax W vs Brøndby W - UEFA Champions League Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -4917,17 +4919,17 @@ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a5b47af30392eaef4ee7f96/chu
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Znicz%20Pruszk%C3%B3w%20vs%20LKS%20Lodz%20II.jpg" group-title="LIVE", Znicz Pruszków vs LKS Lodz II - Poland Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a53b312f65afa224ee14c94/chunks.m3u8?is_vip=false&token=1786027654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2781f44c9fa71cf7fa190b3b68e9d729
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a53b312f65afa224ee14c94/chunks.m3u8?is_vip=false&token=1786028577-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a172c00371ac4742639fdfe5d4cdbeb4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786027656-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e8dcd633d502f62d7c84ebc0c3f16f6f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786028579-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-edc1dcc47233dfb74beb73160d99206a
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Podhale%20Nowy%20Targ%20vs%20Chojniczanka%20Chojnice.jpg" group-title="LIVE", Podhale Nowy Targ vs Chojniczanka Chojnice - Poland Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a53b312f65afa224ee14c8d/chunks.m3u8?is_vip=false&token=1786027658-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1ca9eb13c6e5ae6ee44cf04f447ab5c0
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a53b312f65afa224ee14c8d/chunks.m3u8?is_vip=false&token=1786028581-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-705d9407e0c171bde62481965e0454b1
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/nLBeFmtE/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Tocs/Auziņš G. (LAT) vs Held/Kubo (GER), Men Qualifications R1 on C2 | Hamburg (GER) | 21:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
