@@ -4953,20 +4953,15 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/161358/720p/chunks.m3u8?is_vip=
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786018665-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cd2460b340e6836e1e7ba2916de50dc3
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/UDH83qif/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Lorenz/Rietschel (GER) vs Tiisaar/Korotkov (EST), Men Qualifications R1 on CC | Hamburg (GER) | 18:25 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-UDH83qif
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/7B0Jr3Em/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Bedritis/Rinkevics (LAT) vs Klemen/Huber A. (AUT), Men Qualifications R1 on C2 | Hamburg (GER) | 19:25 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-7B0Jr3Em
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/W3hNTTr4/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Reinhardt/Sowa (GER) vs Heidrich/Haussener (SUI), Men Qualifications R1 on CC | Hamburg (GER) | 19:25 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/W3hNTTr4/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Reinhardt/Sowa (GER) vs Heidrich/Haussener (SUI), Men Qualifications R1 on CC | Hamburg (GER) | 19:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-W3hNTTr4
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/7B0Jr3Em/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Bedritis/Rinkevics (LAT) vs Klemen/Huber A. (AUT), Men Qualifications R1 on C2 | Hamburg (GER) | 19:25 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-7B0Jr3Em
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/fVfImBjE/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Sepka/Sedlak (CZE) vs Nemec/Jancok (SVK), Men Qualifications R1 on C2 | Hamburg (GER) | 20:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
@@ -4978,12 +4973,12 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-fVfImBjE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-yiX50pCb
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/nLBeFmtE/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Tocs/Auziņš G. (LAT) vs Held/Kubo (GER), Men Qualifications R1 on C2 | Hamburg (GER) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/nLBeFmtE/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Tocs/Auziņš G. (LAT) vs Held/Kubo (GER), Men Qualifications R1 on C2 | Hamburg (GER) | 21:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-nLBeFmtE
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/88sk5SQt/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Beta/Besarab (POL) vs Huster/Winter (GER), Men Qualifications R1 on CC | Hamburg (GER) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/88sk5SQt/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Beta/Besarab (POL) vs Huster/Winter (GER), Men Qualifications R1 on CC | Hamburg (GER) | 21:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-88sk5SQt
@@ -4997,6 +4992,11 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-tI5TOYkW
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-Nqi0FzXz
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/PHSer2rl/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Beutel/Schürholz (GER) vs Bélanger/Monkhouse (CAN), Women Qualifications R2 on CC | Hamburg (GER) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-PHSer2rl
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/Vh2MG9HV/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Serdiuk/Romaniuk (UKR) vs Annique/Menia (SUI), Women Qualifications R2 on C2 | Hamburg (GER) | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
