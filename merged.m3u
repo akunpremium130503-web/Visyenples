@@ -4873,11 +4873,18 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:08:02 PM 06-08-2026
+#LAST_UPDATE:08:32 PM 06-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:5
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
+
+#EXTINF:-1 tvg-id="B0HBPRZXT1" tvg-name="London Spirit vs. MI London" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b40acc9a-796a-4611-9790-ac0e1a07803f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",London Spirit vs. MI London
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HBQPJ66V" tvg-name="Phygital Football, Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f77d698-e7cb-4950-837c-a08fc420b60b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Phygital Football, Round of 16
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4886,60 +4893,41 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0H3WBRTNW" tvg-name="Mumbai Grizzlies vs. Delhi Sharks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3804c264-d407-4f29-b1ae-6424e65b6492/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Mumbai Grizzlies vs. Delhi Sharks
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HBPRZXT1" tvg-name="London Spirit vs. MI London" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b40acc9a-796a-4611-9790-ac0e1a07803f/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",London Spirit vs. MI London
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 8:17:27 PM 06-08-2026
+#last update time: 8:32:35 PM 06-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES2%2C%20Tour%20of%20Poland%2C%20Stage%204.jpg" group-title="LIVE", ES2, Tour of Poland, Stage 4 - UCI World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786112248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c5809d17baf68846ce996842cfea4292
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1786113157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-18f1e642a99b8505d526132ef3be360d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wyndham%20Championship.jpg" group-title="LIVE", Wyndham Championship - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/411/720p/chunks.m3u8?is_vip=false&token=1786112250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-642b89d4513791801a77cb9caaaedb7f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/411/720p/chunks.m3u8?is_vip=false&token=1786113159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b174e2440777833e0968585285a0327
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20de%20France%20Femmes%20-%20Stage%206.jpg" group-title="LIVE", Tour de France Femmes - Stage 6 - UCI Women's World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786112251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b50f276d4fe574af4ab6089af577946
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1410/720p/chunks.m3u8?is_vip=false&token=1786113160-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-872f430cbeb0c9f32de969b1129c2d0f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/West%20Indies%20vs%20Pakistan.jpg" group-title="LIVE", West Indies vs Pakistan - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786112253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc768ee4a104f5ff98d2c5f0e610153f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786113162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b6023e7ef05e36c0ba50d45fd0918a11
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Spirit%20vs%20MI%20London.jpg" group-title="LIVE", Spirit vs MI London - The Hundred Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786112254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f9005dda75081acbad7e9006f3a6b98
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786113164-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5d203ebe097f534345ea9bab12c25b4
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/vwsbHOZZ/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Bryl/Łosiak (POL) vs Mol H./Berntsen (NOR), Men Pool A on C2 | Hamburg (GER) | 20:55 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-vwsbHOZZ
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/8g9lAHie/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Hölting Nilsson/Andersson E (SWE) vs Bedritis/Rinkevics (LAT), Men Pool A on CC | Hamburg (GER) | 20:55 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-8g9lAHie
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/nmuAHcsE/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Tina/Anastasija (LAT) vs Shaw/Phillips (USA), Women Pool C on C2 | Hamburg (GER) | 22:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
@@ -4980,4 +4968,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-LH84B1A7
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-uY1TRSwG
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/9n5YXoUA/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Melissa/Brandie (CAN) vs Müller/Tillmann (GER), Women Pool A on CC | Hamburg (GER) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-9n5YXoUA
 
