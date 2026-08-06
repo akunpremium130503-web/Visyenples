@@ -4897,7 +4897,7 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifk
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 9:02:34 PM 06-08-2026
+#last update time: 9:17:41 PM 06-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wyndham%20Championship.jpg" group-title="LIVE", Wyndham Championship - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -4919,12 +4919,12 @@ https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=fal
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786113164-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5d203ebe097f534345ea9bab12c25b4
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/nmuAHcsE/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Tina/Anastasija (LAT) vs Shaw/Phillips (USA), Women Pool C on C2 | Hamburg (GER) | 22:25 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/nmuAHcsE/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Tina/Anastasija (LAT) vs Shaw/Phillips (USA), Women Pool C on C2 | Hamburg (GER) | 22:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-nmuAHcsE
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/VQ0FbhNM/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Brunner/Hüberli (SUI) vs Grüne/Uhl (GER), Women Pool C on CC | Hamburg (GER) | 22:25 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/VQ0FbhNM/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Brunner/Hüberli (SUI) vs Grüne/Uhl (GER), Women Pool C on CC | Hamburg (GER) | 22:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-VQ0FbhNM
@@ -4939,12 +4939,12 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-xruVzPxQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-hPrndbnX
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/YsJiI9ZU/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Henning/Pfretzschner L. (GER) vs Schalk/Shaw (USA), Men Pool D on CC | Hamburg (GER) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/YsJiI9ZU/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Henning/Pfretzschner L. (GER) vs Schalk/Shaw (USA), Men Pool D on CC | Hamburg (GER) | 07 August 2026 | 00:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-YsJiI9ZU
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/NsHcXXnj/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Plavins/Fokerots (LAT) vs Friedli/Jordan (SUI), Men Pool D on C2 | Hamburg (GER) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/NsHcXXnj/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Plavins/Fokerots (LAT) vs Friedli/Jordan (SUI), Men Pool D on C2 | Hamburg (GER) | 07 August 2026 | 00:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-NsHcXXnj
