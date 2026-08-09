@@ -4864,11 +4864,18 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:04:32 PM 09-08-2026
+#LAST_UPDATE:05:02 PM 09-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:5
 #UPCOMING_COUNT:0
+
+#EXTINF:-1 tvg-id="B0HBPQRSX7" tvg-name="Manchester City vs. Atlético Madrid" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9a267669-3672-44c5-9889-da4f480bf5ef/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Manchester City vs. Atlético Madrid
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HC6WZZZ7" tvg-name="Qatar Airways Grand Prix of Great Britain" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0230590a-7115-496c-a16b-9c1d16a0133c/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Qatar Airways Grand Prix of Great Britain
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4877,77 +4884,97 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://live-emt-pv-ta.amazon.fastly-edge.com/$T$2D3RhEOhAQWhBFgkOWE2NWFkMDQtYzk4NS00OTZhLWE4NzQtYTkwMzY2M2FiNzFlWJCnAWpwcmltZXZpZGVvBBpqjAGnBhpqeDsnA2ZmYXN0bHkCeClzc2lkOjVlOTdmYzI5LTYzYzktNGIwYi04Y2JiLWJkZDA1ZWM0OWRhNRkBOKEFoQJ4My9wb2tvZ2dyeWNyL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYIIn1PUwDM331bKJ3YQmWbX5vuqRMZdyWEx1gWZY-5kGG/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pokoggrycr/out/v1/30f3ad9ba2c340739ea2943f29d44b32/b49a5189-3c12-499c-961c-052084631669-cenc.mpd?aws.sessionId=8181d21a-e889-4382-a8e1-2c0561124e76
 
+#EXTINF:-1 tvg-id="B0H8JNJ59L" tvg-name="2026 International Professional Pool Players Association Masters" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a1331c8-4405-43f8-828d-cc9b8cc313e4/26/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 International Professional Pool Players Association Masters
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0HCCYMX5X" tvg-name="PPA Tour: Asia Ho Chi Minh-Gold" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d33835e9-a2d9-40e3-bae3-d792f7ba3f00/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Asia Ho Chi Minh-Gold
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H9NLJW6M" tvg-name="Canada, ATP/WTA Round of 16 & Doubles 2nd Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19136369-0cfd-4d40-943d-cbf177383e24/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Canada, ATP/WTA Round of 16 & Doubles 2nd Round
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H6SCWDZP" tvg-name="Sunrisers Leeds vs. Welsh Fire" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.53a1bf79-3995-4724-b009-614b84818b52/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sunrisers Leeds vs. Welsh Fire
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 4:47:25 PM 09-08-2026
+#last update time: 5:02:28 PM 09-08-2026
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carlton%20vs%20St.%20Kilda%20Saints.jpg" group-title="LIVE", Carlton vs St. Kilda Saints - AFL Premiership
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20City%20vs%20Atletico%20Madrid.jpg" group-title="LIVE", Manchester City vs Atletico Madrid - Friendlies Clubs [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786358847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e3794a4847b4f2138c5d9df088dc6828
+https://livecdn-tc-iptv.rumsport10.live/live_abr/161358/720p/chunks.m3u8?is_vip=false&token=1786359749-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-67c9c77b58ed0357f0e953e2f659223b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manchester%20City%20vs%20Atletico%20Madrid.jpg" group-title="LIVE", Manchester City vs Atletico Madrid - Friendlies Clubs [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787b1/chunks.m3u8?is_vip=false&token=1786359751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e93764afe49da0ad8a245a176f008b0b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tokyo%20Verdy%20vs%20Kawasaki%20Frontale.jpg" group-title="LIVE", Tokyo Verdy vs Kawasaki Frontale - J1 League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787a7/chunks.m3u8?is_vip=false&token=1786358863-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-189abdc9496f406b5e6fb2e32cc60819
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787a7/chunks.m3u8?is_vip=false&token=1786359754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0345fb41c5f01676664902306da40f1b
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Carlton%20vs%20St.%20Kilda%20Saints.jpg" group-title="LIVE", Carlton vs St. Kilda Saints - AFL Premiership
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1786359758-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-321e02b0f0023efe39f1910148ebdb92
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Melbourne%20vs%20Fremantle%20City.jpg" group-title="LIVE", South Melbourne vs Fremantle City - Australia Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9ab/chunks.m3u8?is_vip=false&token=1786358870-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c76c7f2d3a9c8534b59b297aa7d6631d
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20vs%20Kyoto%20Sanga.jpg" group-title="LIVE", V-varen Nagasaki vs Kyoto Sanga - J1 League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787ad/chunks.m3u8?is_vip=false&token=1786358875-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f76e7f8087c9b1e4b1878db63389ec1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6d13f0a24edae8ffddd9ab/chunks.m3u8?is_vip=false&token=1786359762-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-de2a7e84d3cf1190189f18bf10b16dde
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ES2%2C%20Tour%20of%20Poland%2C%20Stage%207.jpg" group-title="LIVE", ES2, Tour of Poland, Stage 7 - UCI World Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1786358881-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f9d91a00858199dba61ec4b9b3f232a
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1786359774-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca7ba20f213d6dd2d9714b8e77b093e4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Leeds%20vs%20Fire.jpg" group-title="LIVE", Leeds vs Fire - The Hundred Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786358886-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-21706329fd55f52f2ed2575c16840b57
+https://livecdn-tc-iptv.rumsport10.live/live_abr/56524/720p/chunks.m3u8?is_vip=false&token=1786359777-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ff3539df66d53d7676bddac57fc03194
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Farense%20vs%20Torreense.jpg" group-title="LIVE", Farense vs Torreense - Segunda Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7884f/chunks.m3u8?is_vip=false&token=1786358887-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7cb72c160a703ff52af3f7cfac1c6c26
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7884f/chunks.m3u8?is_vip=false&token=1786359779-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2f264515f701a2e37a37aab8e9cac3df
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/V-varen%20Nagasaki%20vs%20Kyoto%20Sanga.jpg" group-title="LIVE", V-varen Nagasaki vs Kyoto Sanga - J1 League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787ad/chunks.m3u8?is_vip=false&token=1786359780-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f2a16c10822c5b76754a5a5b751881f8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Helmond%20Sport%20vs%20De%20Graafschap.jpg" group-title="LIVE", Helmond Sport vs De Graafschap - Eerste Divisie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787b3/chunks.m3u8?is_vip=false&token=1786358891-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e9f2c6bd8f16532e3f8a954c0214fe78
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787b3/chunks.m3u8?is_vip=false&token=1786359782-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c65c949909cbffc62a9ceb20d102f4a5
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/mD3OmmU5/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Ehlers/Wüst (GER) vs Plavins/Fokerots (LAT), Men Semifinals on CC | Hamburg (GER) | 16:50 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-mD3OmmU5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Klepp%20Women%20vs%20FK%20Fyllingsdalen%20Women.jpg" group-title="LIVE", Klepp Women vs FK Fyllingsdalen Women - NOR Women's 1.Divisjon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787bd/chunks.m3u8?is_vip=false&token=1786359799-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c62b462ef187929eca09e0dc514afa5c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Start%20Kristiansand%20Women%20vs%20Frigg%20(w).jpg" group-title="LIVE", Start Kristiansand Women vs Frigg (w) - NOR Women's 1.Divisjon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b787ba/chunks.m3u8?is_vip=false&token=1786359810-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1e5cbcaf16d373b99cf8df7bc5d9c2b9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qatar%20Airways%20Grand%20Prix%20of%20Great%20Britain.jpg" group-title="Auto Racing", Qatar Airways Grand Prix of Great Britain - MotoGP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1786359812-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c2fea54df60382402a47a9a913a6bf87
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/0kYFEqU1/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Mol A./Sørum C. (NOR) vs van de Velde/de Groot (NED), Men Semifinals on CC | Hamburg (GER) | 17:50 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
@@ -4959,7 +4986,7 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-0kYFEqU1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-XVgtvVJu
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/mfmi3YhC/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",[tbc] vs [tbc], Men Final 3rd Place on CC | Hamburg (GER) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/mfmi3YhC/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Plavins/Fokerots (LAT) vs [tbc], Men Final 3rd Place on CC | Hamburg (GER) | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-mfmi3YhC
@@ -4969,7 +4996,7 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-mfmi3YhC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-jAYMzbDA
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/Bk4Pol64/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",[tbc] vs [tbc], Men Final 1st Place on CC | Hamburg (GER) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/Bk4Pol64/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Ehlers/Wüst (GER) vs [tbc], Men Final 1st Place on CC | Hamburg (GER) | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-Bk4Pol64
@@ -4993,4 +5020,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-8LLDPEF0
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-qRNhu3DN
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/khL4Dy2O/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Savvy/Newberry (USA) vs Müller/Tillmann (GER), Women Pool B on C2 | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-khL4Dy2O
 
