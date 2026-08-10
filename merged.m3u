@@ -4864,7 +4864,7 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:32 AM 11-08-2026
+#LAST_UPDATE:03:02 AM 11-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -4875,7 +4875,7 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HBHVVCXX" tvg-name="PONY League World Series, Game 11: Washington County, PA vs. Guaynabo, Puerto Rico" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6f461f65-9908-454c-aa6c-f1fdff48617a/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PONY League World Series, Game 11: Washington County, PA vs. Guaynabo, Puerto Rico
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4889,38 +4889,28 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0pr
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:47:27 AM 11-08-2026
+#last update time: 3:02:34 AM 11-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="LIVE", Rogers Cup - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786481248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2e6b3c3d8385665eaad97e9d660275fe
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1786482155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b1ce137052c2bfa6e336dabece913d95
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rockets%20vs%20Brave.jpg" group-title="LIVE", Rockets vs Brave - The Hundred
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786481249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1eb810f2cddce7740fae95b45b806e42
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Plymouth%20vs%20Exeter%20City.jpg" group-title="LIVE", Plymouth vs Exeter City - League Cup
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a57a7e015d865a011b7871d/chunks.m3u8?is_vip=false&token=1786481252-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bab9971c9764427a861e5fcd864e87c8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rentistas%20vs%20Plaza%20Colonia.jpg" group-title="LIVE", Rentistas vs Plaza Colonia - Segunda División
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a738f42c167105e9889c921/chunks.m3u8?is_vip=false&token=1786481254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-332a76bb5daa7d8fcc501aaf8ae74a1e
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786482157-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92164b04817212845be00ced377b6510
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Santa%20Clara%20vs%20Nacional.jpg" group-title="LIVE", Santa Clara vs Nacional - Primeira Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed60e/chunks.m3u8?is_vip=false&token=1786481257-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-18326dab0596e542aa9d9699e5a98a7a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a56569476468946b7fed60e/chunks.m3u8?is_vip=false&token=1786482162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e1045a2549b767374e3e924112834c1
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/qFk7FHDh/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Łosiak/Bryl (POL) vs Mol H./Berntsen (NOR), Men Pool C on C2 | Montréal (CAN) | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
