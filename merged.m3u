@@ -4880,81 +4880,59 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:02 AM 13-08-2026
+#LAST_UPDATE:03:32 AM 13-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:2
 #UPCOMING_COUNT:0
-
-#EXTINF:-1 tvg-id="B0H234272P" tvg-name="RC Deportivo de A Coruña vs. Real Madrid" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.32ba2d57-b8bb-4dee-9765-94bfb0235251/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",RC Deportivo de A Coruña vs. Real Madrid
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad6e7091d1d36a16d5475bdb2d900888:8c67e6b1e4bcf1ee1f12167526ef2503
-https://ABDJLNDAAAAAAAAMNFYH553AJELCT.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqkInGBhpqfMNGA2pjbG91ZGZyb250Angpc3NpZDozMTU0NDI4OS1iNDI2LTQ2NDAtYWVjOS1mNTU5YzA1Y2NmMTEZATihBaECeDMvZHFzdm5qY2FjZS9vdXQvdjEvNDhkMGZmZGMwYzM1NGZjOGJmOWI1NjVjMjQ1ZDBmMDcZATyBYlVTWCD-sPSFBdDf537-s01V94kHEjMXpg4kY-MRNqeiPY8i8Q/CMH/47672b40c4ce4f39b9dfa11ca51d6a18/v1/dash/159325541587/imdb_wurl_amzn1_dv_live_csid_5c285884-a6fc-4ed6-a2cb-758a01301136_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/dqsvnjcace/out/v1/48d0ffdc0c354fc8bf9b565c245d0f07/8c64a614-82ce-4820-9dd8-5744d91180de-cenc.mpd?aws.sessionId=4a7c461e-9d51-4b9b-8f03-10c4450df60b
 
 #EXTINF:-1 tvg-id="B0GZBCH99Q" tvg-name="Hasty Bake High Limit Room at Knoxville Nationals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c38a2e5-3554-49dd-b9ef-3f0ca1c0d988/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hasty Bake High Limit Room at Knoxville Nationals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 3:17:23 AM 13-08-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20vs%20Aston%20Villa.jpg" group-title="LIVE", Paris Saint Germain vs Aston Villa - UEFA Super Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1786655846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-02a219d19f8de6c5dcabaf4b175bf9fe
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Paris%20Saint%20Germain%20vs%20Aston%20Villa.jpg" group-title="LIVE", Paris Saint Germain vs Aston Villa - UEFA Super Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/325/720p/chunks.m3u8?is_vip=false&token=1786655847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-259132e1178b98821b8149cf5e19d94a
+#last update time: 3:32:27 AM 13-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ATP%20Cincinnati.jpg" group-title="LIVE", ATP Cincinnati - ATP Cincinnati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786655848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af2a00f78408261da9b206ede9d48ed4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Phoenix%20vs%20MI%20London.jpg" group-title="LIVE", Phoenix vs MI London - The Hundred
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1786655850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b4d4fdadc5703f9a9d260d7f9b77bb0
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786656748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb5f6785090605411dee82597c35b367
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Philadelphia%20Phillies%20vs%20St.%20Louis%20Cardinals.jpg" group-title="LIVE", Philadelphia Phillies vs St. Louis Cardinals - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1786655852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3e7052ca8f08f19f468f80809514fb52
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1786656750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-33bda9edd7eb9f3fcdf385848707a35f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tampa%20Bay%20Rays%20vs%20Oakland%20Athletics.jpg" group-title="LIVE", Tampa Bay Rays vs Oakland Athletics - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1786655853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-732906a39557733149eeda9b2c15da0d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1786656752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bc4434a41b524b9e8e48a453930843a6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Colorado%20Rockies%20vs%20Arizona%20Diamondbacks.jpg" group-title="LIVE", Colorado Rockies vs Arizona Diamondbacks - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1786655855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5070fd6ab44c49600a0e7c0013586349
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=1786656753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-35df964a11a608e752fe49bc23aababe
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Houston%20Astros%20vs%20San%20Francisco%20Giants.jpg" group-title="LIVE", Houston Astros vs San Francisco Giants - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1786655857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-252e7b72da7af7c8d3306f397b1a75ee
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=1786656754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b13d15f53f7e9f56c011ffd185b13822
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rogers%20Cup.jpg" group-title="LIVE", Rogers Cup - Rogers Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786655858-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6bf225ffa67855f0f1fe4ef1999513c6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1786656755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6c5d3d2dbc4f504e19ccfa54151f2df
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Milwaukee%20Brewers%20vs%20San%20Diego%20Padres.jpg" group-title="LIVE", Milwaukee Brewers vs San Diego Padres - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1786655860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3010586313c3f228c483a45d273b9601
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=1786656756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c7cccbf36719559903e7bd147dc23591
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/qFk7FHDh/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Łosiak/Bryl (POL) vs Mol H./Berntsen (NOR), Men Pool C on C2 | Montréal (CAN) | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
