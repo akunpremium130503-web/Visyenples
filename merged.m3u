@@ -4889,18 +4889,11 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:02 AM 18-08-2026
+#LAST_UPDATE:09:32 AM 18-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:2
 #UPCOMING_COUNT:0
-
-#EXTINF:-1 tvg-id="B0HDXGB2G3" tvg-name="ATP/WTA 3rd Round & Doubles 1st Round" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d7070748-e72c-48f2-a2fa-085def40d491/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",ATP/WTA 3rd Round & Doubles 1st Round
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H21FVDSP" tvg-name="Pacific Pilots at Northern Nighthawks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.829ce671-1584-4e6e-b406-e5208e93f8bf/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Pacific Pilots at Northern Nighthawks
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4913,47 +4906,42 @@ https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prt
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 9:17:24 AM 18-08-2026
+#last update time: 9:32:30 AM 18-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Chicago%20Cubs.jpg" group-title="LIVE", Chicago White Sox vs Chicago Cubs - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1787109445-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1604ba9260f9b17dbc735de6b79fce06
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55844/720p/chunks.m3u8?is_vip=false&token=1787110351-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f639fe78eff413bc240310b51363cbd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Los%20Angeles%20Dodgers%20vs%20Colorado%20Rockies.jpg" group-title="LIVE", Los Angeles Dodgers vs Colorado Rockies - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1787109447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4366609dd8e95b70c1187e25762c83a1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55845/720p/chunks.m3u8?is_vip=false&token=1787110354-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-04393c0d1a5369df7721713ddb871677
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alexandra%20Eala%20vs%20Amanda%20Anisimova.jpg" group-title="LIVE", Alexandra Eala vs Amanda Anisimova - Cincinnati open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787109448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-762b684fc79560752c577af92869f93d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147446/720p/chunks.m3u8?is_vip=false&token=1787110356-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aa64874def8d45ff2a1616a08b0718ac
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tommy%20Paul%20vs%20Adolfo%20Daniel%20Vallejo.jpg" group-title="LIVE", Tommy Paul vs Adolfo Daniel Vallejo - ATP Cincinnati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1787109450-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c41ed6d0442db469894901562d4623ee
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68904/720p/chunks.m3u8?is_vip=false&token=1787110359-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7cac782e502cdfb52ed6e35a164a83da
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-hd/chunks.m3u8?is_vip=false&token=1787109451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b721dcbb74cb98b300782211c19e61ad
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-hd/chunks.m3u8?is_vip=false&token=1787110362-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f154e489eb2eee51c4e7dc72c595454b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-fhd/chunks.m3u8?is_vip=false&token=1787109452-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23ab005816b8d9027b3a346ccb7bb4df
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-fhd/chunks.m3u8?is_vip=false&token=1787110363-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f9a752d22464c846053ebcc0c4b5b25
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-backup/chunks.m3u8?is_vip=false&token=1787109453-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f577a490343d6e4e408ecb1cf72c16d
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CF%20Pachuca%20vs%20Puebla.jpg" group-title="LIVE", CF Pachuca vs Puebla - Liga MX [Server 4]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295/chunks.m3u8?is_vip=false&token=1787109454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5d58099e0cbc2ed6f5176d2038ba75de
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a63850d57b14e876d127295-backup/chunks.m3u8?is_vip=false&token=1787110363-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d63fac4dbf570f36bb062191c93f2e29
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/qFk7FHDh/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Crabb Tr./Budinger (USA) vs Evans/Shaw (USA), Men Pool C on C2 | Montréal (CAN) | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
