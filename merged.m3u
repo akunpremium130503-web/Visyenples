@@ -4837,19 +4837,14 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 9:32:26 PM 19-08-2026
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/997ei5YC/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",de Greeff/Gannett (CAN) vs Ringøen/Aas (NOR), Men Qualifications R1 on CC | Montréal (CAN) | 21:55 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-997ei5YC
+#last update time: 9:47:24 PM 19-08-2026
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/gmlzcPtr/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Brewster/Webber (USA) vs Ranghieri/Alfieri (ITA), Men Qualifications R1 on C2 | Montréal (CAN) | 22:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-gmlzcPtr
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/kpQURcOI/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Pascariuc P./Horst (AUT) vs Rivest/Licht (CAN), Men Qualifications R1 on CC | Montréal (CAN) | 22:55 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/kpQURcOI/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Pascariuc P./Horst (AUT) vs Rivest/Licht (CAN), Men Qualifications R1 on CC | Montréal (CAN) | 22:55 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-kpQURcOI
@@ -4869,7 +4864,7 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-Dt25FgiU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-minem1IT
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/D8xnVIRu/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Durish/Koenig (USA) vs Cudmore/Odigie (CAN), Women Qualifications R1 on CC | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/D8xnVIRu/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Durish/Koenig (USA) vs Cudmore/Odigie (CAN), Women Qualifications R1 on CC | Montréal (CAN) | 20 August 2026 | 00:55 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-D8xnVIRu
@@ -4888,4 +4883,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-vtdjm8Sn
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-8xXuMTvE
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/hWVW5KDa/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Bisgaard/Høg (DEN) vs McBain/Sorra (CAN), Women Qualifications R1 on CC | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-hWVW5KDa
 
