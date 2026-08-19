@@ -4813,7 +4813,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:02:02 AM 20-08-2026
+#LAST_UPDATE:02:32 AM 20-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:5
@@ -4844,12 +4844,7 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 2:17:25 AM 20-08-2026
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/8xXuMTvE/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Harward/DeBerg (USA) vs Christ/Neuß (GER), Women Qualifications R1 on C2 | Montréal (CAN) | 02:25 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-8xXuMTvE
+#last update time: 2:32:30 AM 20-08-2026
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/hWVW5KDa/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Bisgaard/Høg (DEN) vs McBain/Sorra (CAN), Women Qualifications R1 on CC | Montréal (CAN) | 02:55 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
@@ -4895,4 +4890,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-60XGzZnQ
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-wjb2Tdjk
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/qFk7FHDh/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Crabb Tr./Budinger (USA) vs Evans/Shaw (USA), Men Pool C on C2 | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-qFk7FHDh
 
