@@ -4837,19 +4837,14 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapix
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 12:32:25 AM 20-08-2026
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/D8xnVIRu/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Durish/Koenig (USA) vs Cudmore/Odigie (CAN), Women Qualifications R1 on CC | Montréal (CAN) | 00:55 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-D8xnVIRu
+#last update time: 12:47:28 AM 20-08-2026
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/DdxS5u58/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Pavlova/Sunniva (NOR) vs Navas/Gonzalez (PUR), Women Qualifications R1 on C2 | Montréal (CAN) | 01:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-DdxS5u58
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/vtdjm8Sn/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Quiggle/Loreen (USA) vs Dunn/McKay (CAN), Women Qualifications R1 on CC | Montréal (CAN) | 01:55 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/vtdjm8Sn/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Quiggle/Loreen (USA) vs Dunn/McKay (CAN), Women Qualifications R1 on CC | Montréal (CAN) | 01:55 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-vtdjm8Sn
@@ -4869,7 +4864,7 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-hWVW5KDa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-5iFyJ1h2
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/VqDTRRzb/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Thorup/Glagau (CAN) vs Shaw/Phillips (USA), Women Qualifications R1 on CC | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/VqDTRRzb/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Thorup/Glagau (CAN) vs Shaw/Phillips (USA), Women Qualifications R1 on CC | Montréal (CAN) | 03:55 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-VqDTRRzb
@@ -4888,4 +4883,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-4o0khX9r
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-iNfQYc88
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/qFk7FHDh/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Crabb Tr./Budinger (USA) vs Evans/Shaw (USA), Men Pool C on C2 | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-qFk7FHDh
 
