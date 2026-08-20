@@ -4858,12 +4858,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qy6usrjq
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 5:32:26 AM 20-08-2026
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/DD3Ylm2g/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Pascariuc P./Horst (AUT) vs Brewster/Webber (USA), Men Qualifications R2 on C2 | Montréal (CAN) | 05:25 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-DD3Ylm2g
+#last update time: 5:47:20 AM 20-08-2026
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/iNfQYc88/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Semerad/Stocek (CZE) vs Abrams/Chadwick (CAN), Men Qualifications R2 on CC | Montréal (CAN) | 05:55 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
@@ -4875,7 +4870,7 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-iNfQYc88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-60XGzZnQ
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/wjb2Tdjk/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Durish/Koenig (USA) vs Ana Patrícia/Carol Horta (BRA), Women Qualifications R2 on CC | Montréal (CAN) | 06:55 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/wjb2Tdjk/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Durish/Koenig (USA) vs Ana Patrícia/Carol Horta (BRA), Women Qualifications R2 on CC | Montréal (CAN) | 06:55 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-wjb2Tdjk
@@ -4909,4 +4904,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-8LLDPEF0
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-qRNhu3DN
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/khL4Dy2O/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Savvy/Newberry (USA) vs Müller/Tillmann (GER), Women Pool B on C2 | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-khL4Dy2O
 
