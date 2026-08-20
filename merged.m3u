@@ -4865,12 +4865,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 7:02:26 AM 20-08-2026
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/wjb2Tdjk/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Durish/Koenig (USA) vs Ana Patrícia/Carol Horta (BRA), Women Qualifications R2 on CC | Montréal (CAN) | 06:55 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-wjb2Tdjk
+#last update time: 7:17:24 AM 20-08-2026
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/urtE9N1c/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Grüne/Uhl (GER) vs Shaw/Phillips (USA), Women Qualifications R2 on C2 | Montréal (CAN) | 07:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
@@ -4916,4 +4911,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-BJHcffKU
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-JeBN8N5p
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/q8MuToFT/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Carol /Rebecca (BRA) vs [tbc], Women Pool C on CC | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-q8MuToFT
 
