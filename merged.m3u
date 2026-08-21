@@ -4813,7 +4813,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:08:02 PM 21-08-2026
+#LAST_UPDATE:08:32 PM 21-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:5
@@ -4824,14 +4824,14 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/14/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 Predator EuroTour Longoni Open
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HF14XPH5" tvg-name="Pumas v Suzuki Griquas" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.732cb936-8456-4a2f-aa90-ad3bc814537f/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Pumas v Suzuki Griquas
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4845,52 +4845,72 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 8:17:24 PM 21-08-2026
+#last update time: 8:32:27 PM 21-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%201.jpg" group-title="LIVE", Day 1 - Australian Darts Masters
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1787408249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f4d7b7d5b2e1a8261b5fee6e98be063d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=1787409149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7df3ac87e3e25874470d3ba64eedb79f
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 1st Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787408251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-243d37a4e9f2083ada2e9bdccef87629
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787409150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0257dc83fb0c192cacfd111ebebdecb1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chertanovo%20U20%20vs%20Spartak%20Moskva%20U19.jpg" group-title="LIVE", Chertanovo U20 vs Spartak Moskva U19 - Youth Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fab/chunks.m3u8?is_vip=false&token=1787408255-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8bf5ab516e5053714f57daa2038fed44
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fab-backup/chunks.m3u8?is_vip=false&token=1787409154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b14a101209ece0fc75e874170fb24172
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CSKA%20Moskva%20U19%20vs%20Lokomotiv%20Moskva%20U19.jpg" group-title="LIVE", CSKA Moskva U19 vs Lokomotiv Moskva U19 - Youth Championship
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CSKA%20Moskva%20U19%20vs%20Lokomotiv%20Moskva%20U19.jpg" group-title="LIVE", CSKA Moskva U19 vs Lokomotiv Moskva U19 - Youth Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1faa/chunks.m3u8?is_vip=false&token=1787408256-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5db15ee86a4a22d5989b6c2c7b65150c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1faa-backup/chunks.m3u8?is_vip=false&token=1787409155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23fa41a70d22a3db2f1d86ae46881af8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/CSKA%20Moskva%20U19%20vs%20Lokomotiv%20Moskva%20U19.jpg" group-title="LIVE", CSKA Moskva U19 vs Lokomotiv Moskva U19 - Youth Championship [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1faa/chunks.m3u8?is_vip=false&token=1787409156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0bcea4351b6529f4f4fd8b3041ddbfb9
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dinamo%20Moskva%20U19%20vs%20Nizhny%20Novgorod%20U19.jpg" group-title="LIVE", Dinamo Moskva U19 vs Nizhny Novgorod U19 - Youth Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa9-backup/chunks.m3u8?is_vip=false&token=1787409158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-87655825bb9f258e73ed41f9ac08808e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rostov%20U19%20vs%20Rubin%20Kazan%20U20.jpg" group-title="LIVE", Rostov U19 vs Rubin Kazan U20 - Youth Championship [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa7-backup/chunks.m3u8?is_vip=false&token=1787408258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5601040124fd83270d2d2f58b4a2005e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa7-backup/chunks.m3u8?is_vip=false&token=1787409159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8be170017d75c5f673539e8aa739ace7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rostov%20U19%20vs%20Rubin%20Kazan%20U20.jpg" group-title="LIVE", Rostov U19 vs Rubin Kazan U20 - Youth Championship [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa7/chunks.m3u8?is_vip=false&token=1787408258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-955a5b5aa6d8db53dae8765d25eb42bb
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa7/chunks.m3u8?is_vip=false&token=1787409160-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ec56f287de44630943f240bf4bfa9d63
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ittihad%20Kalba%20vs%20Al-Wasl%20FC.jpg" group-title="LIVE", Al-Ittihad Kalba vs Al-Wasl FC - Pro League [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fakel%20U19%20vs%20Almaz%20Antey%20U19.jpg" group-title="LIVE", Fakel U19 vs Almaz Antey U19 - Youth Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a741be3eaed40cd997a132c-backup/chunks.m3u8?is_vip=false&token=1787408260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d868fc3ec21f6221170ff0e8da803c4e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a67798781a7f7965acf1fa8-backup/chunks.m3u8?is_vip=false&token=1787409161-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-01ff6e7b6fe9b9f6cf8a75e294ba66f2
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ittihad%20Kalba%20vs%20Al-Wasl%20FC.jpg" group-title="LIVE", Al-Ittihad Kalba vs Al-Wasl FC - Pro League [Server 2]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ittihad%20Kalba%20vs%20Al-Wasl%20FC.jpg" group-title="LIVE", Al-Ittihad Kalba vs Al-Wasl FC - Pro League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a741be3eaed40cd997a132c/chunks.m3u8?is_vip=false&token=1787408260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ed9a038929173c0ef9d7b23947efc3dd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a741be3eaed40cd997a132c/chunks.m3u8?is_vip=false&token=1787409162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a5f5341cff91bd60f8a002a715e92be8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dutch%20Grand%20Prix%202026.jpg" group-title="LIVE", Dutch Grand Prix 2026 - Formula 1 Sprint Qualifying
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1787408262-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2a81d94060cfd5483273586a6e433b19
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1787409164-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23214e97ccf6110bca1654fb11935ca3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cross-country%20Short%20Track%20Les%20Gets.jpg" group-title="Cycling", Cross-country Short Track: Les Gets - UCI Mountain Bike World Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1787409168-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c2a5ee2bb6ce0e5d390247038317c800
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cincinnati%20open.jpg" group-title="Tennis", Cincinnati open - Cincinnati open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787409168-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4d1c04992b64c2f8b7616122a7739ba6
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="WBA Asia Light Flyweight Tournament", Prayuda vs Egberth Junior Ukru
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -4981,11 +5001,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4470905&sportType=1
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4475973&sportType=1
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/wnwahsgR/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Mol A./Sørum C. (NOR) vs Evans/Shaw (USA), Men Pool C on CC | Montréal (CAN) | 20:55 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-wnwahsgR
-
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/vcf0uBSn/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Kraft/Cheng (USA) vs Harward/DeBerg (USA), Women Pool C on C2 | Montréal (CAN) | 21:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -5030,4 +5045,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-j7ErCPlm
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-rfU6C8yG
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/iFRb1zom/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Donlin/Denaburg (USA) vs Bélanger/Monkhouse (CAN), Women Pool D on CC | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-iFRb1zom
 
