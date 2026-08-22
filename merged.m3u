@@ -4813,10 +4813,10 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:02 AM 23-08-2026
+#LAST_UPDATE:03:32 AM 23-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:6
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HDXZLHGC" tvg-name="BMW Championship - TOURCast/SiriusXM Simulcast-Round 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6064ae90-86b4-4973-89fc-626a811e9728/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",BMW Championship - TOURCast/SiriusXM Simulcast-Round 3
@@ -4824,120 +4824,98 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFKJC2KK" tvg-name="NASCAR Whelen Modified Tour at New Hampshire Motor Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c19949d5-219e-47b7-a937-049827f4f15b/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",NASCAR Whelen Modified Tour at New Hampshire Motor Speedway
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HFBSVT69" tvg-name="2026 Predator EuroTour Longoni Open" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60d302c9-5c17-4ecb-8696-04b1e1e2bd3f/16/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",2026 Predator EuroTour Longoni Open
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18ebe4e0e59f5ff07ed9879c4c0e0008:e172cb6887761bf883aa925e173e7b67
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/2idyuu2ecl/out/v1/8b521304de804ce5a5ac4ff27eb85eb3/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/piohtevobl/out/v1/5492835514884933abee7a9b852dd1af/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HCLCD3ZJ" tvg-name="Quebec - Singles Semifinals & Doubles Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d18916d-e210-447d-954d-f6af5d053265/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Quebec - Singles Semifinals & Doubles Final
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:17:23 AM 23-08-2026
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Espanyol%20vs%20Real%20Madrid.jpg" group-title="LIVE", Espanyol vs Real Madrid - La Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf8000f680c3c906796-hd/chunks.m3u8?is_vip=false&token=1787519844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-127176636f1df4bea8ffc555ca6731f4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Espanyol%20vs%20Real%20Madrid.jpg" group-title="LIVE", Espanyol vs Real Madrid - La Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf8000f680c3c906796-cnhd/chunks.m3u8?is_vip=false&token=1787519845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f2b59d7256bb2f3492d9b0628d29c1f
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Espanyol%20vs%20Real%20Madrid.jpg" group-title="LIVE", Espanyol vs Real Madrid - La Liga [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf8000f680c3c906796/chunks.m3u8?is_vip=false&token=1787519846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f7d33938fb3f13141f225131895ada97
+#last update time: 3:32:21 AM 23-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/BMW%20Championship%2C%20Day%203.jpg" group-title="LIVE", BMW Championship, Day 3 - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/157/720p/chunks.m3u8?is_vip=false&token=1787519847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eabe715abd1d9fde134f9c0f07a08120
+https://livecdn-tc-iptv.rumsport10.live/live_abr/157/720p/chunks.m3u8?is_vip=false&token=1787520742-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c2f7319128be7328ad4b71491a5659bb
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Atlanta%20Braves%20vs%20Milwaukee%20Brewers.jpg" group-title="LIVE", Atlanta Braves vs Milwaukee Brewers - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1787519849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f437ea8842bf3152aabae200f735435b
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20CP%20vs%20Alverca.jpg" group-title="LIVE", Sporting CP vs Alverca - Primeira Liga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b5f3/chunks.m3u8?is_vip=false&token=1787519850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e10b0340a14c6072f7117c908a062781
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1787520744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-72858b4303cc4d74dee6c55fa81bde8a
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jessica%20Pegula%20vs%20Iga%20Swiatek.jpg" group-title="LIVE", Jessica Pegula vs Iga Swiatek - Cincinnati open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787519851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b68e84309cea15c3379dc26827ffcee6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787520747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d1a6e72759adf2192a17ff68152b637d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20York%20Giants%20vs%20Miami%20Dolphins.jpg" group-title="LIVE", New York Giants vs Miami Dolphins - NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52465/720p/chunks.m3u8?is_vip=false&token=1787519853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81607ed39f97a15c407ffdd81b3d90c3
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52465/720p/chunks.m3u8?is_vip=false&token=1787520748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8add8b132e6fc2ec4f644ae77ff12d58
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/New%20Orleans%20Saints%20vs%20Los%20Angeles%20Rams.jpg" group-title="LIVE", New Orleans Saints vs Los Angeles Rams - NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52464/720p/chunks.m3u8?is_vip=false&token=1787519854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3c05fe7848722c71e6de2227d45563eb
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52464/720p/chunks.m3u8?is_vip=false&token=1787520750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1ca405f405eaea752620680e2306b728
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Nationals%20vs%20Miami%20Marlins.jpg" group-title="LIVE", Washington Nationals vs Miami Marlins - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1787519859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e554534ee2bfe339cfef6df886a18d51
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1787520754-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11e85f12691c9cd7cd6a675215d6ec5b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PRELIMS.jpg" group-title="LIVE", PRELIMS - UFC FIGHT NIGHT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1787519866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e3574563136abcc36166a3969a143aaa
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1787520757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e9861c63de25d10735ca21595100e5c7
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Qualifying%20Grand%20Prix%20of%20Washington%2C%20D.C.jpg" group-title="LIVE", Qualifying: Grand Prix of Washington, D.C - Indycar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787519867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2493de15489fce28ff837bc8fb9f91f3
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787520759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6f83396f7fa8c75c702c87511b5b6227
 
-#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="2026 liv golf league",  indianapolis - round 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979651&sportType=90
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20vs%20Independ.%20Rivadavia.jpg" group-title="LIVE", Independiente vs Independ. Rivadavia - Liga Profesional Argentina [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b6e04d2634c113adf1d30-fhd/chunks.m3u8?is_vip=false&token=1787520764-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1068ff21bbea435a78a2b021b1f1d273
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Independiente%20vs%20Independ.%20Rivadavia.jpg" group-title="LIVE", Independiente vs Independ. Rivadavia - Liga Profesional Argentina [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6b6e04d2634c113adf1d30/chunks.m3u8?is_vip=false&token=1787520764-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f606be4d371b05b4b10aed4e720cc857
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Internacional%20vs%20Atletico-MG.jpg" group-title="LIVE", Internacional vs Atletico-MG - Serie A [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf8000f680c3c9067ea-fhd/chunks.m3u8?is_vip=false&token=1787520766-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7200402b5e93f5817bd85ea83b34995a
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Internacional%20vs%20Atletico-MG.jpg" group-title="LIVE", Internacional vs Atletico-MG - Serie A [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf8000f680c3c9067ea/chunks.m3u8?is_vip=false&token=1787520766-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da0473a58afe5613f0316d17c6203efe
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Brandon%20Nakashima%20vs%20Frances%20Tiafoe.jpg" group-title="Tennis", Brandon Nakashima vs Frances Tiafoe - ATP Cincinnati
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1787520771-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-569a56f04af14a4087d2dbbfc297ecc7
+
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="BWF World Championship", Rd64/48/32 (Crt 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211548&sportType=12
-#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="(L) BMW Championship 2026 Day 3", (L) BMW Championship 2026 Day 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979649&sportType=90
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/944fcefc160f78322ddcc68ec995040e.png!w80" group-title="Primeira Liga Portugal", Sporting CP vs Alverca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4432529&sportType=1
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png!w80" group-title="La Liga", RCD Espanyol de Barcelona vs Real Madrid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4432553&sportType=1
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/e8d38514cbb040848b373ab571a0f11c.png!w80" group-title="Segunda Division Spanyol", Eldense vs Cadiz CF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4436869&sportType=1
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="MXGP", Budds Creek
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -4962,10 +4940,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211243&sportType=9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211245&sportType=9
-#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="2026 u.s. senior women's open championship",  round 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979653&sportType=90
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/baseball/competition/4a608a703a493a68fdabf8e539cb4b57.png" group-title="MLB", Miami Marlins vs Washington Nationals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -4974,10 +4948,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2210846&sportType=4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211534&sportType=7
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/8db9a5d445b772788d5a1f9719133e59.png!w80" group-title="Liga Primer Kanada", Cavalry FC vs Atletico Ottawa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4352745&sportType=1
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/c34077b7ac3592e339bd375e72fe441b.png!w80" group-title="Liga 1 Peru", Juan Pablo II vs AD Tarma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -4986,6 +4956,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4409414&sportType=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4432654&sportType=1
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/8db9a5d445b772788d5a1f9719133e59.png!w80" group-title="Liga Primer Kanada", Cavalry FC vs Atletico Ottawa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4352745&sportType=1
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Open de St. Louis", 3e tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -5002,11 +4976,30 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4341986&sportType=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4481775&sportType=1
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/hHpjMERj/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Hölting Nilsson/Andersson E (SWE) vs Schachter/Pickett (CAN), Men Quarterfinals on CC | Montréal (CAN) | 03:55 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-hHpjMERj
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/b5f444357e6775e904168a120068648d.png!w80" group-title="Venezuela Segunda Division", Deportivo Lara vs Academia Puerto Cabello B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4481789&sportType=1
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="IndyCar", Freedom 250 Grand Prix (Amerika Serikat) - Kualifikasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211202&sportType=7
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="(l) ufc 2026", hernandez vs rodrigues
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211558&sportType=14
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png!w80" group-title="Liga Primera A Kolombia", Deportes Tolima vs Atletico Bucaramanga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4432748&sportType=1
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/tennis/competition/829849eb4b3fccdc6d5a8ae68863be44.png" group-title="Challenger ATP Challenger Quebec City, Canada Men Doubles", Justin Boulais/Duncan Chan vs Donski A / Rai A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2210338&sportType=3
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/5ad7bd885c64690f15f6971a2827190d.png!w80" group-title="Liga Brazil Serie A", Internacional - RS vs Atlético Mineiro - MG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4323341&sportType=1
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/KCfVuZhU/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Kraft/Cheng (USA) vs Cruz/Brasher (USA), Women Quarterfinals on C2 | Montréal (CAN) | 04:25 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
@@ -5043,13 +5036,18 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-J117GHKe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-1mgJv7az
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/Szqsb5M7/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",[tbc] vs [tbc], Men Semifinals | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/Szqsb5M7/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Mol A./Sørum C. (NOR) vs Mol H./Berntsen (NOR), Men Semifinals on CC | Montréal (CAN) | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-Szqsb5M7
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/5nlmBAbz/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",[tbc] vs [tbc], Men Semifinals | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/5nlmBAbz/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Schachter/Pickett (CAN) vs Andre/Renato (BRA), Men Semifinals on CC | Montréal (CAN) | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-5nlmBAbz
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/rt1Zysth/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",[tbc] vs [tbc], Women Semifinals on CC | Montréal (CAN) | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-rt1Zysth
 
