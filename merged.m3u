@@ -4813,7 +4813,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:32 PM 23-08-2026
+#LAST_UPDATE:01:02 PM 23-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -4824,105 +4824,83 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0H85J96JP" tvg-name="Sri Lanka vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb328646-4c6d-49ba-9565-f5f831c52f8b/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sri Lanka vs. India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFDBCQK1" tvg-name="PPA Tour Asia: Shenzhen Open-Gold" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ba05926-def5-4b18-84e2-468cfd69891b/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour Asia: Shenzhen Open-Gold
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HC8KQP2K" tvg-name="Orix Buffaloes vs. Fukuoka SoftBank Hawks" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4d72910a-0f63-4f84-a838-197f6608abf3/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Orix Buffaloes vs. Fukuoka SoftBank Hawks
+#EXTINF:-1 tvg-id="B0H85J96JP" tvg-name="Sri Lanka vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb328646-4c6d-49ba-9565-f5f831c52f8b/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Sri Lanka vs. India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6670dbc6eb97a1c7fc6395d952fb00b7:72a3574c534811db5a4804695a184221
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:47:22 PM 23-08-2026
+#last update time: 1:02:25 PM 23-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20Bangladesh.jpg" group-title="LIVE", Australia vs Bangladesh - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=1787554043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4835e9ba7aa8bfcca27c977f8d10b9a9
+https://livecdn-tc-iptv.rumsport10.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=1787554946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5a6b18fd5053c806714ecbac4392f670
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - India tour of Sri Lanka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787554046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-110c54289debeaf7aaa6cbed0141fda9
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787554947-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-663a9b7935e97c25d1f44fd1ee7d64e6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20Olympic%20vs%20Marconi%20Stallions.jpg" group-title="LIVE", Sydney Olympic vs Marconi Stallions - New South Wales NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb6415d865a0118e3712-backup/chunks.m3u8?is_vip=false&token=1787554047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f664c9104870fa2f1152c8d64bdfeb90
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb6415d865a0118e3712-backup/chunks.m3u8?is_vip=false&token=1787554949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b47b35ca4904abce75eb5428c26217ec
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20Olympic%20vs%20Marconi%20Stallions.jpg" group-title="LIVE", Sydney Olympic vs Marconi Stallions - New South Wales NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb6415d865a0118e3712/chunks.m3u8?is_vip=false&token=1787554048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7fc19dee94894b6d91ad627b32a4b771
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wollongong%20Wolves%20vs%20Western%20Sydney%20Wanderers%20U23.jpg" group-title="LIVE", Wollongong Wolves vs Western Sydney Wanderers U23 - New South Wales NPL [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b566-backup/chunks.m3u8?is_vip=false&token=1787554050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-627efda2614c6e4f9fb6486babec6a87
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wollongong%20Wolves%20vs%20Western%20Sydney%20Wanderers%20U23.jpg" group-title="LIVE", Wollongong Wolves vs Western Sydney Wanderers U23 - New South Wales NPL [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b566/chunks.m3u8?is_vip=false&token=1787554051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb16c0c6eaf680999c22f67f46b38c25
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20Knights%20vs%20Langwarrin.jpg" group-title="LIVE", Melbourne Knights vs Langwarrin - Victoria NPL 2 [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b567-backup/chunks.m3u8?is_vip=false&token=1787554052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ab86ab20476a10c8f7a5c534d6822c2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Melbourne%20Knights%20vs%20Langwarrin.jpg" group-title="LIVE", Melbourne Knights vs Langwarrin - Victoria NPL 2 [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b567/chunks.m3u8?is_vip=false&token=1787554053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5e99d1d9a97837a4bb46bb4f08b5d137
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a68cb6415d865a0118e3712/chunks.m3u8?is_vip=false&token=1787554950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf95baf40e10d20db7a38f3ce96f405e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Maitland%20vs%20Weston%20Bears.jpg" group-title="LIVE", Maitland vs Weston Bears - Northern NSW NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a872c288f7c293f9ff4ae25-backup/chunks.m3u8?is_vip=false&token=1787554054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5312aad07ee4f112b6d90018fb41ec33
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a872c288f7c293f9ff4ae25-backup/chunks.m3u8?is_vip=false&token=1787554951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d5f9ed482fee0a23187fe92580a732e
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Maitland%20vs%20Weston%20Bears.jpg" group-title="LIVE", Maitland vs Weston Bears - Northern NSW NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a872c288f7c293f9ff4ae25/chunks.m3u8?is_vip=false&token=1787554056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2674d9e7f6da3bb85173b46a2aba9617
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a872c288f7c293f9ff4ae25/chunks.m3u8?is_vip=false&token=1787554952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-013bbb550f158881ddc1e12ef90c2654
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Otago%20vs%20Wellington.jpg" group-title="LIVE", Otago vs Wellington - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787554057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e85d4693b7327f9a1498ad35e3dffaee
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1787554953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-70bc46426f77badbf300fffdcb59f642
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/North%20Melbourne%20vs%20Sydney%20Swans.jpg" group-title="LIVE", North Melbourne vs Sydney Swans - AFL Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787554059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e7935a1949affa65fb8e59a5028e37bf
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1787554955-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c30b535c69932b970e6c614a424cba13
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Melbourne%20vs%20Heidelberg%20United.jpg" group-title="LIVE", South Melbourne vs Heidelberg United - Victoria NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b56a-backup/chunks.m3u8?is_vip=false&token=1787554060-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e95a849a8fefd183a0a08cdf49a541d2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b56a-backup/chunks.m3u8?is_vip=false&token=1787554957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9d390d6abed66d8c30252055cc50b563
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/South%20Melbourne%20vs%20Heidelberg%20United.jpg" group-title="LIVE", South Melbourne vs Heidelberg United - Victoria NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b56a/chunks.m3u8?is_vip=false&token=1787554062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-690f8bcb84c3ee599c3bf1dd03f6eae3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b56a/chunks.m3u8?is_vip=false&token=1787554958-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5eb3da2389f5cb79b241a8944c4c00db
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manningham%20United%20Blues%20vs%20Melbourne%20Victory%20II.jpg" group-title="LIVE", Manningham United Blues vs Melbourne Victory II - Victoria NPL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6a1cf87c78df962c22b569/chunks.m3u8?is_vip=false&token=1787554962-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b36074345adfab8f66dca9046ab961b3
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="(L) TSS Thailand Super Series 2026", (L) TSS Thailand Super Series 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -4932,10 +4910,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211940&sportType=7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979672&sportType=90
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/baseball/competition/764d366da10f7f681e9b39a3644ae293.png" group-title="NPB", Fukuoka SoftBank Hawks vs Orix Buffaloes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2210878&sportType=4
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="BWF China Open", kor vs mas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -4948,10 +4922,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979668&sportType=90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2210915&sportType=6
-#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Shute Shield - Play Off", Warringah vs Randwick
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211266&sportType=8
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Supercars Championship", Ipswich SuperSprint (Australia) - Balapan 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -4984,6 +4954,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211211&sportType=8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211948&sportType=12
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Ligier European Series", Spa Francorchamps Race 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211933&sportType=7
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/J117GHKe/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Chinese Taipei v Iraq | Pool Phase | AVC Women's Continentals 2026 | 12:50 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
