@@ -4813,25 +4813,25 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:05:02 PM 25-08-2026
+#LAST_UPDATE:05:32 PM 25-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:5
 #UPCOMING_COUNT:0
-
-#EXTINF:-1 tvg-id="B0H3C2VB9J" tvg-name="European World Championships: Day 2, Heats" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be32b641-fbcf-4ab8-b2cd-f15916bdd5af/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",European World Championships: Day 2, Heats
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H5SK5PPX" tvg-name="Top End Series: Adelaide Strikers Academy vs Bangladesh HP" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bdc5d41d-195f-4c1d-91a3-590a7061cef9/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: Adelaide Strikers Academy vs Bangladesh HP
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 tvg-id="B0H3C2VB9J" tvg-name="European World Championships: Day 2, Heats" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be32b641-fbcf-4ab8-b2cd-f15916bdd5af/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",European World Championships: Day 2, Heats
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H9492KZS" tvg-name="Cuba vs. Chinese Taipei" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1126ca8f-711b-4ad2-b6ef-062b26983f25/12/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cuba vs. Chinese Taipei
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4845,62 +4845,57 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:17:26 PM 25-08-2026
+#last update time: 5:32:23 PM 25-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sri%20Lanka%20vs%20India.jpg" group-title="LIVE", Sri Lanka vs India - 2nd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787743047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c2fa7957ff844113a699581285e733e8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lions%20vs%20North%20Sunshine%20Eagles.jpg" group-title="LIVE", Lions vs North Sunshine Eagles - Australia Cup [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563dff-backup/chunks.m3u8?is_vip=false&token=1787743048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25de2d4927e84811a634930e9f0d32bf
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lions%20vs%20North%20Sunshine%20Eagles.jpg" group-title="LIVE", Lions vs North Sunshine Eagles - Australia Cup [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7e0d3b250dd16277563dff/chunks.m3u8?is_vip=false&token=1787743050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c8c06b6adb0b38efb41827802c80c7be
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787743944-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3aa45918725825a306c06dd598abf5fc
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gimcheon%20Sangmu%20FC%20vs%20Jeonbuk%20Motors.jpg" group-title="LIVE", Gimcheon Sangmu FC vs Jeonbuk Motors - K League 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca34-backup/chunks.m3u8?is_vip=false&token=1787743051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25c3f530244c167f78d2d31c47cab38e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca34-backup/chunks.m3u8?is_vip=false&token=1787743946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d55d1c1c43445110399a3eaf30c1b61c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gimcheon%20Sangmu%20FC%20vs%20Jeonbuk%20Motors.jpg" group-title="LIVE", Gimcheon Sangmu FC vs Jeonbuk Motors - K League 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca34/chunks.m3u8?is_vip=false&token=1787743052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d1df5c56b39b176f1080ca31749d0ff
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca34/chunks.m3u8?is_vip=false&token=1787743948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af7b94ca2389c0bad94127b80b47b973
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jeju%20United%20FC%20vs%20Pohang%20Steelers.jpg" group-title="LIVE", Jeju United FC vs Pohang Steelers - K League 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca35-backup/chunks.m3u8?is_vip=false&token=1787743053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-163d875e83f0a86280dc37b53eb35c33
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca35-backup/chunks.m3u8?is_vip=false&token=1787743949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-90912168c80f36a923597f9e5908a088
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Jeju%20United%20FC%20vs%20Pohang%20Steelers.jpg" group-title="LIVE", Jeju United FC vs Pohang Steelers - K League 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca35/chunks.m3u8?is_vip=false&token=1787743054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-60a0400e8ba680bde916d078e35e3625
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca35/chunks.m3u8?is_vip=false&token=1787743950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a2b7401b86778259b69990b8bee93bf
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Seoul%20vs%20Bucheon%20FC%201995.jpg" group-title="LIVE", FC Seoul vs Bucheon FC 1995 - K League 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca33-backup/chunks.m3u8?is_vip=false&token=1787743056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6ec0c02b9614c0b4126cbefa2643ed6e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca33-backup/chunks.m3u8?is_vip=false&token=1787743952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d6ed2be04e92b59379bd1ff44caf491
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Seoul%20vs%20Bucheon%20FC%201995.jpg" group-title="LIVE", FC Seoul vs Bucheon FC 1995 - K League 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a6cbf8a37ef0c148eaaca33/720p/chunks.m3u8?is_vip=false&token=1787743057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ec997d852f8dd048f75628e5319e3277
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6cbf8a37ef0c148eaaca33/chunks.m3u8?is_vip=false&token=1787743953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62e4e97f25f8ed80fa627b3e6a4d3b93
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Seoul%20vs%20Bucheon%20FC%201995.jpg" group-title="LIVE", FC Seoul vs Bucheon FC 1995 - K League 1 [Server 3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1-6a6cbf8a37ef0c148eaaca33/720p/chunks.m3u8?is_vip=false&token=1787743954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-73faebb63cf31780b7a7407840011665
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Players%20Championship%2026.jpg" group-title="LIVE", Players Championship 26 - Players Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787743058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-aebe8c85bfdd6ba62648a02103305e7d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1787743956-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5ebc8fadc2322926000af12604a95441
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Wuhan%20Open%20Terzo%20turno.jpg" group-title="LIVE", Wuhan Open: Terzo turno - World Snooker Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787743059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1e8df7fe8c6154ef6081337ace02e865
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1787743957-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1eaa85193830e164938120da616b1f63
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Hari Pertama Motor: MSBK 2026 Rnd 3", Hari Pertama Motor: MSBK 2026 Rnd 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -4910,10 +4905,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2212897&sportType=7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2212900&sportType=12
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/baseball/competition/764d366da10f7f681e9b39a3644ae293.png" group-title="NPB", Chiba Lotte Marines vs Fukuoka SoftBank Hawks
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211686&sportType=4
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/baseball/competition/764d366da10f7f681e9b39a3644ae293.png" group-title="NPB", Saitama Seibu Lions vs Hokkaido Nippon-Ham Fighters
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -4966,6 +4957,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4485296&sportType=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4484032&sportType=1
+#EXTINF:-1 tvg-logo="Cina"5https://log" group-title="China Women's National Championship Basketball", Heilongjiang DaQing Nongshang Bank Women vs Fujian Zhongteng Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2211649&sportType=2
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/volleyball/competition/463532885120e41ae7e2f5ec773c8993.png" group-title="kejuaraan Eropa Wanita", Romania Women vs Belgium Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
