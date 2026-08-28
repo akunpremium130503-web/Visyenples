@@ -4877,10 +4877,10 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:32 AM 29-08-2026
+#LAST_UPDATE:04:02 AM 29-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:4
+#LIVE_COUNT:5
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HFB1CW9J" tvg-name="TOURCAST Live From the TOUR Championship-Round 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.562c967a-7765-48f6-b1aa-8729177d7b3b/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",TOURCAST Live From the TOUR Championship-Round 2
@@ -4890,49 +4890,56 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.license_key=8c8753a34518b7d3093885f956e7afd9:8a4a2f1accb3ac0f42ad1c1502ee833e
 https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x4krgolcxs/out/v1/747627063afd488fb91e534d92869d45/cenc.mpd
 
+#EXTINF:-1 tvg-id="B0H8JS5K1G" tvg-name="Lucas Oil Late Model Dirt Series at Port Royal Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38f855d9-ece0-4217-8278-198982544705/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Lucas Oil Late Model Dirt Series at Port Royal Speedway
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+
 #EXTINF:-1 tvg-id="B0HFQNLS9T" tvg-name="MLP Finals, New York City: Semifinal" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5a0f013f-de73-4890-8d9a-48434187d74d/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",MLP Finals, New York City: Semifinal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:47:25 AM 29-08-2026
+#last update time: 4:02:27 AM 29-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="LIVE", Us open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788040047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-24cc7d6393c9c9e26634f49936e93dba
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788040949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4080a8a10a8f123aa640299fe7116e1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/European%20Tour%2011%20-%20Hungarian%20Darts%20Trophy.jpg" group-title="LIVE", European Tour 11 - Hungarian Darts Trophy - European Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788040048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a8a133ccba0e56b4e6e430599f4d5b87
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788040951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-657009740305e87c9f922bbec675a862
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tour%20Championship%2C%20Day%202.jpg" group-title="LIVE", Tour Championship, Day 2 - PGA Tour
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Santa%20Fe%20vs%20Sarmiento%20Junin.jpg" group-title="LIVE", Union Santa Fe vs Sarmiento Junin - Liga Profesional Argentina [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/157/720p/chunks.m3u8?is_vip=false&token=1788040050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c8e2015e5594602cfc6fa0e4aa8a99cf
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c23679a78b6ca368ad-backup/chunks.m3u8?is_vip=false&token=1788040959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7a7b7c9c327560a4c28e79c5a9974d01
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="LIVE", Saratoga Live - Horse Racing
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Union%20Santa%20Fe%20vs%20Sarmiento%20Junin.jpg" group-title="LIVE", Union Santa Fe vs Sarmiento Junin - Liga Profesional Argentina [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788040051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fc6066a4153751261cc710300527906a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7205c23679a78b6ca368ad/chunks.m3u8?is_vip=false&token=1788040959-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-db05178d297f1abca3fd582c26d596f9
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Washington%20Commanders%20vs%20Baltimore%20Ravens.jpg" group-title="LIVE", Washington Commanders vs Baltimore Ravens - NFL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52459/720p/chunks.m3u8?is_vip=false&token=1788040056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0509d42e46b2ddfee1ae749695329b14
+https://livecdn-tc-iptv.rumsport10.live/live_abr/52459/720p/chunks.m3u8?is_vip=false&token=1788040960-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4f22ea6281a9dd0fba97875638405283
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Practice%201%20Grand%20Prix%20of%20Milwaukee.jpg" group-title="LIVE", Practice 1: Grand Prix of Milwaukee - Indycar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1788040057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d320effe1fc23c31dc9f9f48ae0302f4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1788040962-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-601f652408d2fdfc8816701bf3dd917d
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="UTMB Trail Running World Series", HOKA UTMB Mont-Blanc vs Day 2, Part 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -4990,6 +4997,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2213914&sportType=9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2214354&sportType=12
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Big Ten Conference", Iowa vs Army
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2214349&sportType=8
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/pSDTyX0w/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Japan v Thailand | Playoffs | AVC Women's Continentals 2026 | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
