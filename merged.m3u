@@ -4877,7 +4877,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:05:02 PM 28-08-2026
+#LAST_UPDATE:05:32 PM 28-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -4888,76 +4888,71 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HFZ9KB4K" tvg-name="Top End Series: NT Strike vs Bangladesh HP" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f69466e5-9777-4c9a-a6bd-112ffdbb4340/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series: NT Strike vs Bangladesh HP
+#EXTINF:-1 tvg-id="B0HCLRXVG1" tvg-name="Grand Prix of Aragon, Practice" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4bc14ba1-1523-4752-8d4c-d91e48a41037/8/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Grand Prix of Aragon, Practice
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://emt-fastly.live.pv-cdn.net/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/twj4tdhoav/out/v1/8197c8e055c94a868623653ac55c10bf/f7c4c525-983a-4b62-b562-ab756197fdc4-cenc.mpd?aws.sessionId=dc208d31-2698-41ef-a924-15f5eff06268
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:17:26 PM 28-08-2026
+#last update time: 5:32:27 PM 28-08-2026
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ROAD%20TO%20UFC%20S5%20Semifinals.jpg" group-title="LIVE", ROAD TO UFC S5: Semifinals - MMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1788002246-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ab8b7a3ac2106dd2f045ceffeedb2894
+https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1788003147-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2201353c4f67bcffc6be6e97faabd258
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almaz%20Antey%20U19%20vs%20CSKA%20Moskva%20U19.jpg" group-title="LIVE", Almaz Antey U19 vs CSKA Moskva U19 - Youth Championship [Server 1]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almaz%20Antey%20U19%20vs%20CSKA%20Moskva%20U19.jpg" group-title="LIVE", Almaz Antey U19 vs CSKA Moskva U19 - Youth Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edc5-backup/chunks.m3u8?is_vip=false&token=1788002248-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-27ec0b81049cb445ef166c13502b0055
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Almaz%20Antey%20U19%20vs%20CSKA%20Moskva%20U19.jpg" group-title="LIVE", Almaz Antey U19 vs CSKA Moskva U19 - Youth Championship [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edc5/chunks.m3u8?is_vip=false&token=1788002249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3fe91be3458a5eacb7c6fed0e616e5c7
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edc5/chunks.m3u8?is_vip=false&token=1788003149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c33e505467872554adc0cb9de525aa2a
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Incheon%20Red%20Angels%20W%20vs%20Gyeongju%20W.jpg" group-title="LIVE", Incheon Red Angels W vs Gyeongju W - WK-League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edba-backup/chunks.m3u8?is_vip=false&token=1788002250-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0b0d4799a213e9b62ca573ef9ce9d12c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edba-backup/chunks.m3u8?is_vip=false&token=1788003150-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-14718325d3f76ae00846885f37ffcf65
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Incheon%20Red%20Angels%20W%20vs%20Gyeongju%20W.jpg" group-title="LIVE", Incheon Red Angels W vs Gyeongju W - WK-League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edba/chunks.m3u8?is_vip=false&token=1788002251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a25301393c991f2ba008e1f16f232b92
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edba/chunks.m3u8?is_vip=false&token=1788003151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f0e6e9d31de267f59cdb2c93fc16710d
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Suwon%20FMC%20W%20vs%20Seoul%20W.jpg" group-title="LIVE", Suwon FMC W vs Seoul W - WK-League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edb9-backup/chunks.m3u8?is_vip=false&token=1788002252-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ea491bf32794beec750aabefd9e52c02
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edb9-backup/chunks.m3u8?is_vip=false&token=1788003153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b78e174c2dc5faaf465b81c5010a9990
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Suwon%20FMC%20W%20vs%20Seoul%20W.jpg" group-title="LIVE", Suwon FMC W vs Seoul W - WK-League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edb9/chunks.m3u8?is_vip=false&token=1788002253-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0f7cb629dfadfbac1732b0b9f65295b3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a70b400f0c158089f22edb9/chunks.m3u8?is_vip=false&token=1788003153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eb33f3349a07f9473a695857781f5417
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - Pakistan tour of England
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788002254-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-402a9792139f9da975cd29423cd37098
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1788003155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd40f866ea1f9c6a6c0bde46f6d7bbea
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/European%20Tour%2011%20-%20Hungarian%20Darts%20Trophy.jpg" group-title="LIVE", European Tour 11 - Hungarian Darts Trophy - European Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788002260-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4107cfbf66a4030605d35626d2ee2da
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788003161-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1a4b68c71950bcc66a73ff7a4d5d2498
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%207.jpg" group-title="LIVE", Vuelta a España, Stage 7 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788002261-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-668ca29fd57c8bc878bdb749b96a8890
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788003163-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7bbee41bac603b8d259971102095310c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Semifinali.jpg" group-title="LIVE", Semifinali - World Snooker Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1788002263-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-810d7f16c44990ebf2f7717fa40c6cf5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1788003164-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-891a2779e9c23ca78788b76deae9360a
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="(L) The 15th KG Ladies Open 2026 Day 2", (L) The 15th KG Ladies Open 2026 Day 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -4999,10 +4994,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2214352&sportType=12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2214359&sportType=14
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/0e7b29667e53debdcc13bbcae0c0a35e.png!w80" group-title="Liga Nasional", Chinland FC vs Yadanarbon FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4482592&sportType=1
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="AFL - Wild Card", Western Bulldogs vs Collingwood Magpies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -5047,6 +5038,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4470927&sportType=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4487043&sportType=1
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/basketball/competition/4e3a0a08be33ae8a020f86994d461555.png!w80" group-title="Kualifikasi Piala Asia FIBA", Kyrgyzstan vs Sri Lanka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2213006&sportType=2
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/sPZFG80W/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",China v Vietnam | Playoffs | AVC Women's Continentals 2026 | 18:20 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
