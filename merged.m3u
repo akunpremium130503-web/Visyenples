@@ -4877,18 +4877,25 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:01:32 PM 30-08-2026
+#LAST_UPDATE:02:02 PM 30-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:5
 #UPCOMING_COUNT:0
+
+#EXTINF:-1 tvg-id="B0HDY5JTPQ" tvg-name="World Championships, Finals" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3adc5dd6-ada8-4c26-b4db-deeef7d1e705/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",World Championships, Finals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HF74MF8W" tvg-name="UIPM World Championships, Women's Final" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c2b2f74d-92c3-4662-9c3d-a64cb4ac60ac/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",UIPM World Championships, Women's Final
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0H6Q21QFD" tvg-name="Grand Prix of Aragon" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3295ffaa-ec20-4883-abc0-bfa82c2be843/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Grand Prix of Aragon
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4897,51 +4904,34 @@ https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzliv
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://ABKZS75AAAAAAAAMIZUDOMEIF3IYE.ta.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WJSnAWpwcmltZXZpZGVvBBpqp5v9Bhpqk9V9A2pjbG91ZGZyb250Angpc3NpZDplYzBhOTBiOS1hZjgxLTQ5ZGItODE3Mi1iOWU0MWQ5MGMxNGYZATihBaECeDMvdzdidDNsYmJoYi9vdXQvdjEvODE5N2M4ZTA1NWM5NGE4Njg2MjM2NTNhYzU1YzEwYmYZATyBYlVTWCDYUz5c6czqshpyMcJHHDrc2Q26YCGGDPgc0xRFjZNJxQ/IAD/ecb5167adc48418f9e275a06ed14a1f9/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-east-1_iad_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/w7bt3lbbhb/out/v1/8197c8e055c94a868623653ac55c10bf/81a4f4fd-67ee-4870-9c97-d15b6b992269-cenc.mpd?aws.sessionId=19ace420-fb74-48b1-a500-7785ab1da062
 
-#EXTINF:-1 tvg-id="B0H6XQG9L2" tvg-name="Northland Taniwha v Tasman" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.55b929a7-c62e-4cb8-ab8f-9100e6b04e4e/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Northland Taniwha v Tasman
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
-
 #EXTINF:-1 tvg-id="B0HG1T6MTC" tvg-name="Top End Series, Final: Teams" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a095fa77-766b-4f06-af81-11db3d6cc564/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Top End Series, Final: Teams
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 1:47:25 PM 30-08-2026
+#last update time: 2:02:24 PM 30-08-2026
 
-#EXTINF:-1 tvg-id="51278" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Northland%20vs%20Tasman.jpg" group-title="LIVE", Northland vs Tasman - NPC
+#EXTINF:-1 tvg-id="49772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lions%20vs%20Peninsula%20Power.jpg" group-title="LIVE", Lions vs Peninsula Power - Queensland NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788162446-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f37abe04334bbeb7985b784fad761b0b
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89f8c9b6fa125e7d70d275-backup/chunks.m3u8?is_vip=false&token=1788163345-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2c313b8825b4a6d8a3bd123c945f0a6b
 
-#EXTINF:-1 tvg-id="51284" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Hawthorn%20Hawks%20vs%20Collingwood%20Magpies.jpg" group-title="LIVE", Hawthorn Hawks vs Collingwood Magpies - AFL Womens Premiership
+#EXTINF:-1 tvg-id="49772" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lions%20vs%20Peninsula%20Power.jpg" group-title="LIVE", Lions vs Peninsula Power - Queensland NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788162448-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63fa1626b8304070f56fe9830adb2225
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a89f8c9b6fa125e7d70d275/chunks.m3u8?is_vip=false&token=1788163346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-93e7e431d3fd3f3a4c2af5d5b3d4e782
 
-#EXTINF:-1 tvg-id="56226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Maitland%20vs%20Edgeworth%20Eagles.jpg" group-title="LIVE", Maitland vs Edgeworth Eagles - Northern NSW NPL [Server 1]
+#EXTINF:-1 tvg-id="51288" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Wests%20Tigers.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Wests Tigers - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9066a8e4f896100fc7f548-backup/chunks.m3u8?is_vip=false&token=1788162449-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ae65ff366d4a9c9ba756e0a17dbacc46
-
-#EXTINF:-1 tvg-id="56226" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Maitland%20vs%20Edgeworth%20Eagles.jpg" group-title="LIVE", Maitland vs Edgeworth Eagles - Northern NSW NPL [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9066a8e4f896100fc7f548/chunks.m3u8?is_vip=false&token=1788162451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fea49b2f74ae5e9b87a7122be505f472
-
-#EXTINF:-1 tvg-id="51288" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Wests%20Tigers.jpg" group-title="Rugby", Canterbury-Bankstown Bulldogs vs Wests Tigers - NRL Women's Premiership
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788162454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2816be37c12a9337909995a46fb672bd
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788163348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b17aeb40504a5677bfb1edf2132ce54a
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="BWF World Championship", Rd64/48/32 (Crt 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -4991,6 +4981,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2215120&sportType=7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4364529&sportType=1
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/basketball/competition/4e3a0a08be33ae8a020f86994d461555.png!w80" group-title="Kualifikasi Piala Asia FIBA", Hong Kong China vs Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2214000&sportType=2
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/baseball/competition/764d366da10f7f681e9b39a3644ae293.png" group-title="NPB", Saitama Seibu Lions vs Rakuten Gold. Eagles
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -5003,6 +4997,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2215129&sportType=12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979758&sportType=90
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="NRL Wanita", Wests Tigers W vs Canterbury-Bankstown Bulldogs W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2214445&sportType=8
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/rkm1n0Kb/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Iran v Japan | Playoffs | AVC Women's Continentals 2026 | 14:05 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
