@@ -4877,10 +4877,10 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:32 PM 31-08-2026
+#LAST_UPDATE:01:02 PM 31-08-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:0
+#LIVE_COUNT:1
 #UPCOMING_COUNT:0
 
 
@@ -4888,16 +4888,16 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:47:25 PM 31-08-2026
+#last update time: 1:02:28 PM 31-08-2026
 
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/af3b2c0bb9a577aa7471f269395d217d.png!w80" group-title="AFC U20 Asian Cup", Northern Mariana Islands U20 vs Mongolia U20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4485619&sportType=1
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="thomas cup", india vs canada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2215632&sportType=12
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/basketball/competition/a07e13b5b4e03beb0e060907570dd569.png!w80" group-title="Philippines MPBL", Quezon Huskers vs Manila Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2214546&sportType=2
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/plutA1PY/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Iran v New Zealand | Pool Phase | AVC Men's Continentals 2026 | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
