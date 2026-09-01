@@ -4886,7 +4886,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:02:24 PM 01-09-2026
+#last update time: 3:17:23 PM 01-09-2026
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Pablo Hermoso de Mendoza. Sonidos de la Tarde", Pablo Hermoso de Mendoza se despidió de Madrid. ‘Sonidos de la Tarde’ revive desde dentro su última tarde en Las Ventas, compartiendo cartel con Lea Vicens y su hijo Guillermo.
 
@@ -4921,6 +4921,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4488352&sportType=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2214941&sportType=4
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="uber cup", malaysia vs turkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2215999&sportType=12
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/plutA1PY/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Iran v New Zealand | Pool Phase | AVC Men's Continentals 2026 | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
