@@ -4875,129 +4875,122 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:02 AM 04-09-2026
+#LAST_UPDATE:12:32 AM 04-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:5
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
-
-#EXTINF:-1 tvg-id="B0HDVDFGM1" tvg-name="Palermo vs. Mantova" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.862f93c5-f7c7-4f4d-9193-156138929990/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Palermo vs. Mantova
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HFYJMXLP" tvg-name="PPA Tour: Cary-Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2a1f8dc1-dd6b-4664-8ccc-e51626f31333/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Cary-Round of 16
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HH13S8H7" tvg-name="Hong Kong, China vs. India" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.8d5aa324-d494-449f-9d08-b49ee8fcaf7d/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hong Kong, China vs. India
+#EXTINF:-1 tvg-id="B0HDVDFGM1" tvg-name="Palermo vs. Mantova" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.862f93c5-f7c7-4f4d-9193-156138929990/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="Prime Video Sports",Palermo vs. Mantova
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:17:26 AM 04-09-2026
-
-#EXTINF:-1 tvg-id="61705" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grandstand.jpg" group-title="LIVE", Grandstand - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788545847-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ae2f330cfbad40c4f94e62cc4f9b1802
-
-#EXTINF:-1 tvg-id="61698" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%207.jpg" group-title="LIVE", Court 7 - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143075/720p/chunks.m3u8?is_vip=false&token=1788545848-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94da10df9356b2f6e1e73f8e6483be3f
-
-#EXTINF:-1 tvg-id="61697" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%206.jpg" group-title="LIVE", Court 6 - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788545850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0ebf69a432bd67db365850562da57bbe
-
-#EXTINF:-1 tvg-id="61696" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%205.jpg" group-title="LIVE", Court 5 - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788545851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bb9fb193c69fcd9821ec36aa6ad7a814
-
-#EXTINF:-1 tvg-id="61701" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%2012.jpg" group-title="LIVE", Court 12 - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143076/720p/chunks.m3u8?is_vip=false&token=1788545852-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8aa496412b1da6d9b38615efc2725f81
-
-#EXTINF:-1 tvg-id="61693" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788545853-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e7759e2b06030f9c115a81fcc3943b6f
+#last update time: 12:32:27 AM 04-09-2026
 
 #EXTINF:-1 tvg-id="61707" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Louis%20Armstrong%20Stadium.jpg" group-title="LIVE", Louis Armstrong Stadium - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510509/720p/chunks.m3u8?is_vip=false&token=1788545854-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45654ebb0db6d2e12a592ef8ca0c4436
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510509/720p/chunks.m3u8?is_vip=false&token=1788546748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-271b2e3e2445e6a4b99e1931cdbf51e4
+
+#EXTINF:-1 tvg-id="61705" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grandstand.jpg" group-title="LIVE", Grandstand - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143072/720p/chunks.m3u8?is_vip=false&token=1788546750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-789d78eca604d9b4834bb39792f1cac0
+
+#EXTINF:-1 tvg-id="61701" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%2012.jpg" group-title="LIVE", Court 12 - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143076/720p/chunks.m3u8?is_vip=false&token=1788546751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6ffbe091e393cd99d19850d823e52675
+
+#EXTINF:-1 tvg-id="61698" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%207.jpg" group-title="LIVE", Court 7 - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143075/720p/chunks.m3u8?is_vip=false&token=1788546752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-06680835f0505824fe3ca4db6330e1da
+
+#EXTINF:-1 tvg-id="61697" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%206.jpg" group-title="LIVE", Court 6 - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788546753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-67c6a41c8a8862a3ea322733e9997706
+
+#EXTINF:-1 tvg-id="61696" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%205.jpg" group-title="LIVE", Court 5 - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788546755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5fdc3b26e803994be356c4f45f611fcc
+
+#EXTINF:-1 tvg-id="61693" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788546756-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8afca4f3d346eb39b8b468bc213aae5b
 
 #EXTINF:-1 tvg-id="61706" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arthur%20Ashe%20Stadium.jpg" group-title="LIVE", Arthur Ashe Stadium - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788545855-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df522beda85b0ae27ee8b903b0484207
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788546757-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8952efce791f61b04fe1a0daaef20c89
 
 #EXTINF:-1 tvg-id="61708" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Court%2017.jpg" group-title="LIVE", Court 17 - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510528/720p/chunks.m3u8?is_vip=false&token=1788545856-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-42b41f6350aa764fca1c1c7f367c4e26
-
-#EXTINF:-1 tvg-id="45596" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/NEOM%20vs%20Al%20Khaleej%20Saihat.jpg" group-title="LIVE", NEOM vs Al Khaleej Saihat - Pro League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f3762172/chunks.m3u8?is_vip=false&token=1788545857-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b99db740ea186ffb0783fa0eaf310fe2
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510528/720p/chunks.m3u8?is_vip=false&token=1788546759-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-528e4e42d68999f3766fb3d549af4fd3
 
 #EXTINF:-1 tvg-id="52367" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/San%20Francisco%20Giants%20vs%20Pittsburgh%20Pirates.jpg" group-title="LIVE", San Francisco Giants vs Pittsburgh Pirates - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1788545859-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bae9dbed69573617d9c0b4d7f2015229
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1788546760-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7b41896c2e3ff89f17e64836520914b8
 
 #EXTINF:-1 tvg-id="53811" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="LIVE", Saratoga Live - Horse Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788545860-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-11b3109c4b813daaff63e52e95d13550
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788546761-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7869db88deabf282a12bf2f918b92974
 
 #EXTINF:-1 tvg-id="53756" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Toronto%20Blue%20Jays%20vs%20Cleveland%20Guardians.jpg" group-title="LIVE", Toronto Blue Jays vs Cleveland Guardians - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1788545866-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-25050b22d27dccedc405b22e6c09aedc
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1788546768-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ba8fcb19561651ebe65d60a780eee936
 
 #EXTINF:-1 tvg-id="60224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20U20%20vs%20Jordan%20U20.jpg" group-title="LIVE", Bahrain U20 vs Jordan U20 - AFC U20 Asian Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991ae-backup/chunks.m3u8?is_vip=false&token=1788545867-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b64ebc0d5019c5bcc680a613e3b51bed
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991ae-backup/chunks.m3u8?is_vip=false&token=1788546769-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ffe48f443a111616d36d94675fb1dd3c
 
 #EXTINF:-1 tvg-id="60224" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Bahrain%20U20%20vs%20Jordan%20U20.jpg" group-title="LIVE", Bahrain U20 vs Jordan U20 - AFC U20 Asian Cup [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991ae/chunks.m3u8?is_vip=false&token=1788545868-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c7b8edffb8b8977948314742d6b1f63a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991ae/chunks.m3u8?is_vip=false&token=1788546770-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3d689815a368fb91e4441cf262cd38d2
 
 #EXTINF:-1 tvg-id="61695" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/British%20Open%20Quarto%20turno.jpg" group-title="LIVE", British Open: Quarto turno - World Snooker Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1788545869-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d6941b49813808fe3260fcddd70f3187
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1788546771-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c8edd22a9837012efc7d852b97c17943
 
 #EXTINF:-1 tvg-id="45597" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al%20Diriyah%20vs%20Al-Qadisiyah%20FC.jpg" group-title="LIVE", Al Diriyah vs Al-Qadisiyah FC - Pro League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f3762175/chunks.m3u8?is_vip=false&token=1788545870-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d600602dafb70e498f0a2e3261f43bb8
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f3762175/chunks.m3u8?is_vip=false&token=1788546772-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ee0ca53de766566ecf272948c21eaa74
 
 #EXTINF:-1 tvg-id="53757" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20White%20Sox%20vs%20Houston%20Astros.jpg" group-title="LIVE", Chicago White Sox vs Houston Astros - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1788545871-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5d29d84381f70e4f0cdd6d8659bcc3c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55837/720p/chunks.m3u8?is_vip=false&token=1788546774-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0094d09dbc5a84ab538f0bb77149089b
+
+#EXTINF:-1 tvg-id="52321" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Slask%20Wroclaw%20vs%20Pogon%20Szczecin.jpg" group-title="LIVE", Slask Wroclaw vs Pogon Szczecin - Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7eee5170a52b8b4e55bca8/chunks.m3u8?is_vip=false&token=1788546775-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4743af1e1e0d6a0e4e028793569c3605
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="(L) Omega European Masters Day 1", (L) Omega European Masters Day 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -5015,22 +5008,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979789&sportType=90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2215324&sportType=3
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/tennis/competition/27c765292063ded84ad737f149c99364.png" group-title="ATP AS Terbuka Tunggal Putra", Felix Auger-Aliassime vs Karen Khachanov
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2215333&sportType=3
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/volleyball/competition/463532885120e41ae7e2f5ec773c8993.png" group-title="kejuaraan Eropa Wanita", Germany Women vs Turkey Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2216939&sportType=13
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Hari ke-4: MLBBW | EWC 2026", Hari ke-4: MLBBW | EWC 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979785&sportType=90
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/f5470371fbfd2700042bdc9801f08bab.png!w80" group-title="Piala Rusia", Dynamo Moscow vs Akhmat Grozny
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4457274&sportType=1
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/baseball/competition/4a608a703a493a68fdabf8e539cb4b57.png" group-title="MLB", Pittsburgh Pirates vs San Francisco Giants
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -5087,6 +5068,18 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2216200&sportType=4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2215336&sportType=3
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/66b24b09759356277ac913d6f2589f26.png!w80" group-title="Liga Professional Belgia", Anderlecht vs KV Kortrijk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4413895&sportType=1
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/66b24b09759356277ac913d6f2589f26.png!w80" group-title="Liga Professional Belgia", KAA Gent vs Oud-Heverlee Leuven
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4413913&sportType=1
+#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/889c19181d34b5f3c2369456d5cd94bc.png!w80" group-title="Ekstraklasa Polandia", Lech Poznan vs Jagiellonia Bialystok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4416801&sportType=1
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/plutA1PY/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Iran v New Zealand | Pool Phase | AVC Men's Continentals 2026 | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
