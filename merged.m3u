@@ -4875,7 +4875,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:12:02 PM 03-09-2026
+#LAST_UPDATE:12:32 PM 03-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -4886,12 +4886,22 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 12:17:21 PM 03-09-2026
+#last update time: 12:32:22 PM 03-09-2026
 
-#EXTINF:-1 tvg-id="60205" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guam%20U20%20vs%20Northern%20Mariana%20Islands%20U20.jpg" group-title="LIVE", Guam U20 vs Northern Mariana Islands U20 - AFC U20 Asian Cup
+#EXTINF:-1 tvg-id="60205" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guam%20U20%20vs%20Northern%20Mariana%20Islands%20U20.jpg" group-title="LIVE", Guam U20 vs Northern Mariana Islands U20 - AFC U20 Asian Cup [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991a5/chunks.m3u8?is_vip=false&token=1788502643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3fb8bbb303a2de2f63ae5d334066c496
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991a5-backup/chunks.m3u8?is_vip=false&token=1788503543-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-63a910dcc6e9031d8ad53239a9adceb1
+
+#EXTINF:-1 tvg-id="60205" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Guam%20U20%20vs%20Northern%20Mariana%20Islands%20U20.jpg" group-title="LIVE", Guam U20 vs Northern Mariana Islands U20 - AFC U20 Asian Cup [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a789d16da063f1058c991a5/chunks.m3u8?is_vip=false&token=1788503545-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fde961c19bc88ac68f2e61012b20b1a0
+
+#EXTINF:-1 tvg-id="52371" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Taranaki%20vs%20Auckland.jpg" group-title="Rugby", Taranaki vs Auckland - NPC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1788503548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-027d8e6cb16d5d0876a4687f1f543a50
 
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/cricket/competition/47d70391b89cd9acad2d542200ef581e.png" group-title="Caribbean Premier League", Knight Riders vs Antigua And Barbuda Falcons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
