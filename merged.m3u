@@ -4877,60 +4877,65 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:32 PM 04-09-2026
+#LAST_UPDATE:04:02 PM 04-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:2
+#LIVE_COUNT:3
 #UPCOMING_COUNT:0
 
-#EXTINF:-1 tvg-id="B0HG5PQ3RL" tvg-name="Hawke's Bay v Otago" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.133a22af-8119-4206-976f-20c8f78f1868/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Hawke's Bay v Otago
+#EXTINF:-1 tvg-id="B0HGWXT4BG" tvg-name="UEFA Women's Champions League - League Phase Draw" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.5c7f66d4-fe47-48be-b3a9-bc18016bc064/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",UEFA Women's Champions League - League Phase Draw
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:47:28 PM 04-09-2026
+#last update time: 4:02:25 PM 04-09-2026
 
 #EXTINF:-1 tvg-id="52793" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arema%20FC%20vs%20Adhyaksa.jpg" group-title="LIVE", Arema FC vs Adhyaksa - Liga 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7efc50bcbb3676e9c0b29f-backup/chunks.m3u8?is_vip=false&token=1788601649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-335f7d28c8f35fa4d17a7b098063c4fc
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7efc50bcbb3676e9c0b29f-backup/chunks.m3u8?is_vip=false&token=1788602547-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-906cf01f39267e26adaa9c233bf59b17
 
 #EXTINF:-1 tvg-id="52793" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arema%20FC%20vs%20Adhyaksa.jpg" group-title="LIVE", Arema FC vs Adhyaksa - Liga 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7efc50bcbb3676e9c0b29f/chunks.m3u8?is_vip=false&token=1788601650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c42e75e1b8b3d8873f30049b3bb8869c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7efc50bcbb3676e9c0b29f/chunks.m3u8?is_vip=false&token=1788602548-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-074856a8199375ef46cc6dc5daa9d91c
 
 #EXTINF:-1 tvg-id="52794" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lecce%20U20%20vs%20Roma%20U20.jpg" group-title="LIVE", Lecce U20 vs Roma U20 - Campionato Primavera - 1 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34777-backup/chunks.m3u8?is_vip=false&token=1788601652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c33acea8ba74bd20d9eeff4275d46f68
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34777-backup/chunks.m3u8?is_vip=false&token=1788602549-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-660373928b65ea49d5acfc600562f4fb
 
 #EXTINF:-1 tvg-id="52794" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Lecce%20U20%20vs%20Roma%20U20.jpg" group-title="LIVE", Lecce U20 vs Roma U20 - Campionato Primavera - 1 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34777/chunks.m3u8?is_vip=false&token=1788601652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bd93fb8eb48204d4c4e15e54d63b962d
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7b402efb009bc39fb34777/chunks.m3u8?is_vip=false&token=1788602550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-94998817cba188b6ff3f62478b91ec5d
 
 #EXTINF:-1 tvg-id="53787" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Japan%20vs%20Mali.jpg" group-title="LIVE", Japan vs Mali - FIBA Women's Basketball World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/68008/720p/chunks.m3u8?is_vip=false&token=1788601654-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7f8fe02042af01b3e37d7f45bc634657
+https://livecdn-tc-iptv.rumsport10.live/live_abr/68008/720p/chunks.m3u8?is_vip=false&token=1788602551-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e2053ad56b297d0bb74f3167a2313b07
 
 #EXTINF:-1 tvg-id="53788" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Australia%20vs%20Puertro%20Rico.jpg" group-title="LIVE", Australia vs Puertro Rico - FIBA Women's Basketball World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/61333/720p/chunks.m3u8?is_vip=false&token=1788601655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8339d7ab578e3da46ec08d8bc10e7cee
+https://livecdn-tc-iptv.rumsport10.live/live_abr/61333/720p/chunks.m3u8?is_vip=false&token=1788602553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8650802f5a51ad59c4861353ba3a48ae
 
-#EXTINF:-1 tvg-id="61015" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Italian%20Grand%20Prix%202026%20-%20Practice%201.jpg" group-title="Auto Racing", Italian Grand Prix 2026 - Practice 1 - Formula 1 Practice
+#EXTINF:-1 tvg-id="61015" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Italian%20Grand%20Prix%202026%20-%20Practice%201.jpg" group-title="LIVE", Italian Grand Prix 2026 - Practice 1 - Formula 1 Practice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788601660-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c6ac06450828fc722f816fae02fe1847
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788602555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-551d67d0fe40a1b841fd51b80d4ed32e
+
+#EXTINF:-1 tvg-id="52795" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Akademiya%20Konoplev%20U20%20vs%20Ural%20U20.jpg" group-title="LIVE", Akademiya Konoplev U20 vs Ural U20 - Youth Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a79ee81b630e987f3762182/chunks.m3u8?is_vip=false&token=1788602560-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f20abdcb94e8c3a1bb087cc882c8e01f
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Alfarero de Oro (04/09/2026)", Novillos de Pedraza de Yeltes para El Mene, Martín Morilla y Simón Andreu.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
