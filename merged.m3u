@@ -4877,7 +4877,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:03:02 AM 05-09-2026
+#LAST_UPDATE:03:32 AM 05-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -4888,86 +4888,76 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HH9LR163" tvg-name="CARS Tour at Florence Motor Speedway" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.26f688ba-faa2-4e64-99a8-e0eedf22e524/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",CARS Tour at Florence Motor Speedway
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bead1627019ccc863e138410a8893ad:9fcd23f01aaef2bcf9c5cb2907f86aca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d4bm3wili0/out/v1/0139d2336b32481b956ff21357e97f0d/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 3:17:27 AM 05-09-2026
-
-#EXTINF:-1 tvg-id="62356" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grandstand.jpg" group-title="LIVE", Grandstand - US Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/61349/720p/chunks.m3u8?is_vip=false&token=1788643047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-665ca819db2e1a3576551b0410786839
+#last update time: 3:33:03 AM 05-09-2026
 
 #EXTINF:-1 tvg-id="62353" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/US%20Open.jpg" group-title="LIVE", US Open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788643049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-23d58a1b58b7b0130f2ff316ad8978e6
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788643984-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df0e5eb859efdcad20f673c4ccb177ae
 
 #EXTINF:-1 tvg-id="62354" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Louis%20Armstrong%20Stadium.jpg" group-title="LIVE", Louis Armstrong Stadium - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788643050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a383eee4518da4434adeff724b05b807
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788643985-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e2081b67900eb56c0897ec5e752b93f8
 
 #EXTINF:-1 tvg-id="62355" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arthur%20Ashe%20Stadium.jpg" group-title="LIVE", Arthur Ashe Stadium - US Open [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1788643051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f564b6639f304d5a9fa6f20d602d711c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1428/720p/chunks.m3u8?is_vip=false&token=1788643987-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3a3a140f91c94b8d7b050dbda08b723
 
 #EXTINF:-1 tvg-id="62355" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Arthur%20Ashe%20Stadium.jpg" group-title="LIVE", Arthur Ashe Stadium - US Open [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/510510/720p/chunks.m3u8?is_vip=false&token=1788643052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fe61df547d03ba9c827903ed82fca731
+https://livecdn-tc-iptv.rumsport10.live/live_abr/510510/720p/chunks.m3u8?is_vip=false&token=1788643987-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ba7644426a6665c96a7d4cb4064d09f8
+
+#EXTINF:-1 tvg-id="62356" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Grandstand.jpg" group-title="LIVE", Grandstand - US Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/61349/720p/chunks.m3u8?is_vip=false&token=1788643989-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6bdd67365a3e71274857cd0626089b71
 
 #EXTINF:-1 tvg-id="53781" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%201%20-%20Session%202.jpg" group-title="LIVE", Day 1 - Session 2 - Czech Darts Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788643053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-740126c3d4c9bced6f6d32f8acdd243d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1788643990-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-239f2a634d729af8ad82996088d86aad
 
 #EXTINF:-1 tvg-id="62367" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/British%20Open%20Quarti%20di%20finale.jpg" group-title="LIVE", British Open: Quarti di finale - World Snooker Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1788643054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b0ece9155df370974c8e1ad24199d55
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1409/720p/chunks.m3u8?is_vip=false&token=1788643991-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a058f27c0e5a6899281a291dc5e92a79
 
 #EXTINF:-1 tvg-id="53764" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Detroit%20Tigers%20vs%20Cleveland%20Guardians.jpg" group-title="LIVE", Detroit Tigers vs Cleveland Guardians - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1788643055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a90f3d4be4cf2104eb47bf1a2c68bbea
-
-#EXTINF:-1 tvg-id="54408" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Porto%20vs%20Moreirense.jpg" group-title="LIVE", FC Porto vs Moreirense - Primeira Liga [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e269-backup/chunks.m3u8?is_vip=false&token=1788643056-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-44ef4881aecbd854f12e350648cc2093
-
-#EXTINF:-1 tvg-id="54408" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Porto%20vs%20Moreirense.jpg" group-title="LIVE", FC Porto vs Moreirense - Primeira Liga [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7c91d6e15cf29d83c5e269/chunks.m3u8?is_vip=false&token=1788643057-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf5e92fb78fd2768f0f42ad6b446cdf9
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1788643992-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d48053d6a7a711207f4eb89f410ad6fd
 
 #EXTINF:-1 tvg-id="54480" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estudiantes%20de%20Rio%20Cuarto%20vs%20Sarmiento%20Junin.jpg" group-title="LIVE", Estudiantes de Rio Cuarto vs Sarmiento Junin - Liga Profesional Argentina [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68509-backup/chunks.m3u8?is_vip=false&token=1788643058-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9fd469cb186fbbad6c34c8243f4c606c
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68509-backup/chunks.m3u8?is_vip=false&token=1788643993-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-36c6776d9adb66a86941284adbb256a7
 
 #EXTINF:-1 tvg-id="54480" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Estudiantes%20de%20Rio%20Cuarto%20vs%20Sarmiento%20Junin.jpg" group-title="LIVE", Estudiantes de Rio Cuarto vs Sarmiento Junin - Liga Profesional Argentina [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68509/chunks.m3u8?is_vip=false&token=1788643059-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-22694915175e13acc69580da54d85234
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7de316cc54bda3f6b68509/chunks.m3u8?is_vip=false&token=1788643994-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3a2aeb2bd63cbbfa6817cf89671e9b0
 
 #EXTINF:-1 tvg-id="53813" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Saratoga%20Live.jpg" group-title="LIVE", Saratoga Live - Horse Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788643062-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8d35368090f4f4aeb79072473a9d372f
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788643997-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-956028db8242c0f868b6989432645a48
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="BWF China Masters", Rd16 (Crt1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -4977,10 +4967,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2217767&sportType=12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2180972&sportType=4
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/tennis/competition/d2e6153f9a3da5d86c995241de358ad3.png" group-title="ATP AS Terbuka Ganda Putra", Rajeev Ram/Joe Salisbury vs Gonzalez S / Smith J-P
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2217667&sportType=3
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/football/competition/0276a00c0277c8f1cba7b63bd59e281d.png!w80" group-title="Divisi Utama Argentina", AA Estudiantes (Río Cuarto) vs Sarmiento Junin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -5017,6 +5003,10 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2216170&sportType=3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2217657&sportType=3
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Sorotan CACEIS Ultron Half Marathon 2026", Sorotan CACEIS Ultron Half Marathon 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979803&sportType=90
 #EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/tennis/competition/27c765292063ded84ad737f149c99364.png" group-title="ATP AS Terbuka Tunggal Putra", Alex Michelsen vs Daniel Merida Aguilar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
