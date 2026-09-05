@@ -4902,52 +4902,57 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/emn1qibf
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 1:02:28 PM 05-09-2026
+#last update time: 1:17:22 PM 05-09-2026
 
 #EXTINF:-1 tvg-id="53802" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Tasman%20vs%20Wellington.jpg" group-title="LIVE", Tasman vs Wellington - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788678149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2fecfbb26a0f24656ad46009a58fbfc5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143073/720p/chunks.m3u8?is_vip=false&token=1788679043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9014d267a1beedb950ee2d4c1acff923
 
 #EXTINF:-1 tvg-id="53809" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sydney%20Roosters%20vs%20North%20Queensland%20Cowboys.jpg" group-title="LIVE", Sydney Roosters vs North Queensland Cowboys - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788678151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7338e13ba53127f019afaea3204a160d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788679045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-16ec8c51f2c94b5f8bfafdefaa0d08ec
 
 #EXTINF:-1 tvg-id="61564" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canberra%20FC%20vs%20Queanbeyan%20City.jpg" group-title="LIVE", Canberra FC vs Queanbeyan City - Capital Territory NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd77-backup/chunks.m3u8?is_vip=false&token=1788678152-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6dfbac954311caa48dab4e4e7bd144cd
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd77-backup/chunks.m3u8?is_vip=false&token=1788679046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-df1f9b552192867fb7d6fe163226a1f3
 
 #EXTINF:-1 tvg-id="61564" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canberra%20FC%20vs%20Queanbeyan%20City.jpg" group-title="LIVE", Canberra FC vs Queanbeyan City - Capital Territory NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd77/chunks.m3u8?is_vip=false&token=1788678154-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cb01252ff42fac04961d4f5017030643
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd77/chunks.m3u8?is_vip=false&token=1788679047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5790279cd8f4ca4adc3e69c3d2809264
 
-#EXTINF:-1 tvg-id="60225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Peninsula%20Power%20vs%20Moreton%20City%20Excelsior.jpg" group-title="LIVE", Peninsula Power vs Moreton City Excelsior - Queensland NPL
+#EXTINF:-1 tvg-id="60225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Peninsula%20Power%20vs%20Moreton%20City%20Excelsior.jpg" group-title="LIVE", Peninsula Power vs Moreton City Excelsior - Queensland NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a95ba3793add94b379d42ad/chunks.m3u8?is_vip=false&token=1788678155-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5aa8d4049d46d68139f957395fb45404
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a95ba3793add94b379d42ad-backup/chunks.m3u8?is_vip=false&token=1788679049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9734056eaa891fb00c07a139573cbb99
+
+#EXTINF:-1 tvg-id="60225" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Peninsula%20Power%20vs%20Moreton%20City%20Excelsior.jpg" group-title="LIVE", Peninsula Power vs Moreton City Excelsior - Queensland NPL [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a95ba3793add94b379d42ad/chunks.m3u8?is_vip=false&token=1788679050-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ee1e397087673a963d6cc4043519e5c2
 
 #EXTINF:-1 tvg-id="61565" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Joondalup%20City%20vs%20Armadale.jpg" group-title="LIVE", Joondalup City vs Armadale - Western Australia NPL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd78-backup/chunks.m3u8?is_vip=false&token=1788678156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cecf3e2bb7033e8eacf867a583a206f3
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a984fd76b72017e628bfd78-backup/chunks.m3u8?is_vip=false&token=1788679052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c47c5a40e612cddd8d1cb9fa38593312
 
 #EXTINF:-1 tvg-id="53803" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Waikato%20vs%20Canterbury.jpg" group-title="LIVE", Waikato vs Canterbury - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1788678159-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-56f2aed85528b8a7a363dba2abdfd65c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143074/720p/chunks.m3u8?is_vip=false&token=1788679053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d3f395846c2f2dd3a5568326e10fc59a
 
 #EXTINF:-1 tvg-id="53810" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Newcastle%20Knights.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Newcastle Knights - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788678160-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca0f122b63e78e8f1f762db225814906
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1788679054-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-cffcf5c045d000c2ce20e6d6c1aa5d38
 
-#EXTINF:-1 tvg-id="61559" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%2C%20Italy.jpg" group-title="Auto Racing", Monza, Italy - FIA Formula 3 Championship Sprint
+#EXTINF:-1 tvg-id="61559" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Monza%2C%20Italy.jpg" group-title="LIVE", Monza, Italy - FIA Formula 3 Championship Sprint
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788678161-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8cd588afa56d8cba949172faffdd5149
+https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1788679055-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c57b03f9cc7151e71541e5ae31dfada9
 
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="BWF Singapore Open", Finals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
@@ -4969,10 +4974,6 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979804&sportType=90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=4499839&sportType=1
-#EXTINF:-1 tvg-logo="https://logos1.tcrbg61levl.cfd/aelogo/baseball/competition/764d366da10f7f681e9b39a3644ae293.png" group-title="NPB", Orix Buffaloes vs Chiba Lotte Marines
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
-#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
-https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2216703&sportType=4
 #EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="AFL - Play Off", Sydney Swans vs Brisbane Lions
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
@@ -4985,6 +4986,18 @@ https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2218321&sportType=12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
 #EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
 https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2217158&sportType=8
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="Formula 3", Monza (Italia) - Balapan 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2217150&sportType=7
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="NRL", NQ Cowboys vs Canberra Raiders
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=2217147&sportType=8
+#EXTINF:-1 tvg-logo="https://rbtvapk.org/wp-content/uploads/2026/08/unnamed-1.png" group-title="The Walker Cup - golf", The Walker Cup. Jornada 1. Morning Foursomes (VO).
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20011101 Firefox/31.0
+#EXTHTTP:{"Origin": "https://nadia01eo.tn76degree12ec3out.cfd/", "Referer": "https://nadia01eo.tn76degree12ec3out.cfd/"}
+https://rbtv.ddddddasdas.workers.dev/play.m3u8?id=1979806&sportType=90
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/s99yVW2b/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Qatar v Thailand | Pool Phase | AVC Men's Continentals 2026 | 14:50 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
