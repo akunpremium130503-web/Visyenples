@@ -4877,7 +4877,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:02 PM 08-09-2026
+#LAST_UPDATE:10:32 PM 08-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -4888,68 +4888,83 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HGMDGNL6" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.dc18a0b4-eb75-4c97-90a0-4c54654cbf1c/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HG5PVWV2" tvg-name="Seville, Early Rounds" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.bafe7e42-5a48-4c69-acf1-aa6645be2e79/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Seville, Early Rounds
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k653vm77p0/out/v1/313a4febbed346d298f7c1c281a00f6d/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:02:23 PM 08-09-2026
+#last update time: 10:32:28 PM 08-09-2026
+
+#EXTINF:-1 tvg-id="57063" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/AEK%20Athens%20FC%20vs%20Lask%20Linz.jpg" group-title="LIVE", AEK Athens FC vs Lask Linz - UEFA Champions League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d7707-hd/chunks.m3u8?is_vip=false&token=1788971550-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-98d6864c274174bcc4b220a0d74e3174
+
+#EXTINF:-1 tvg-id="57057" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Club%20Brugge%20KV%20vs%20Aston%20Villa.jpg" group-title="LIVE", Club Brugge KV vs Aston Villa - UEFA Champions League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a90f2da14cfe5ec671d76e5-hd/chunks.m3u8?is_vip=false&token=1788971552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d899fb1cf2ce1eb090e9092a1470b600
 
 #EXTINF:-1 tvg-id="55212" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2016.jpg" group-title="LIVE", Vuelta a España, Stage 16 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788969744-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-62aa5c25130c7df9025514d52fac1567
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788971553-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1ae8ad5401ab6040c24eba03e8e73dfb
 
 #EXTINF:-1 tvg-id="65087" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="LIVE", Us open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788969746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a6f509e22994e9e262e19c479f6ccbb5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788971555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7747a9dbc761888a0e54d71df057ad2f
 
 #EXTINF:-1 tvg-id="45606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ettifaq%20vs%20Al-Faisaly%20FC.jpg" group-title="LIVE", Al-Ettifaq vs Al-Faisaly FC - Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a5-fhd/chunks.m3u8?is_vip=false&token=1788969747-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4fd74351efe14befa81ae96fce10e4d7
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a5-fhd/chunks.m3u8?is_vip=false&token=1788971556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c649aa22195a02191a2f803d5aefb46d
 
 #EXTINF:-1 tvg-id="45606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ettifaq%20vs%20Al-Faisaly%20FC.jpg" group-title="LIVE", Al-Ettifaq vs Al-Faisaly FC - Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a5-backup/chunks.m3u8?is_vip=false&token=1788969748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-66751c7a713b25ced17be678aaf2aad6
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a5-backup/chunks.m3u8?is_vip=false&token=1788971557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fd83b24513ff90ffde826c1fef27f8ab
 
 #EXTINF:-1 tvg-id="45606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ettifaq%20vs%20Al-Faisaly%20FC.jpg" group-title="LIVE", Al-Ettifaq vs Al-Faisaly FC - Pro League [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a5/chunks.m3u8?is_vip=false&token=1788969748-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-03292741d1d37f00c9a6f0d2efbee533
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a5/chunks.m3u8?is_vip=false&token=1788971558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-af2e05aa40a1f7ca71235cc2983c0166
+
+#EXTINF:-1 tvg-id="56255" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PEPO%20vs%20HIFK%20Helsinki.jpg" group-title="LIVE", PEPO vs HIFK Helsinki - Kakkonen - Lohko A [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a936b9493add94b378a1296-backup/chunks.m3u8?is_vip=false&token=1788971559-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-063f483c99addb78fc0af2dc1abf0c2b
+
+#EXTINF:-1 tvg-id="56255" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PEPO%20vs%20HIFK%20Helsinki.jpg" group-title="LIVE", PEPO vs HIFK Helsinki - Kakkonen - Lohko A [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a936b9493add94b378a1296/chunks.m3u8?is_vip=false&token=1788971560-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d802a674a6c95bf174237fa9c77f19ae
 
 #EXTINF:-1 tvg-id="45607" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Hazm%20vs%20Al%20Taawon.jpg" group-title="LIVE", Al-Hazm vs Al Taawon - Pro League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a8-fhd/chunks.m3u8?is_vip=false&token=1788969751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8b026b8f9174ef864938895f0d936739
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a8-fhd/chunks.m3u8?is_vip=false&token=1788971562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-048ae1aac8199895c41d8f0e46023274
 
 #EXTINF:-1 tvg-id="45607" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Hazm%20vs%20Al%20Taawon.jpg" group-title="LIVE", Al-Hazm vs Al Taawon - Pro League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a8/chunks.m3u8?is_vip=false&token=1788969751-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-858f3b3a8a2c80a38b4e2bdef7979af6
-
-#EXTINF:-1 tvg-id="56255" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/PEPO%20vs%20HIFK%20Helsinki.jpg" group-title="LIVE", PEPO vs HIFK Helsinki - Kakkonen - Lohko A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a936b9493add94b378a1296/chunks.m3u8?is_vip=false&token=1788969753-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b78a976ca463937885c81f930fad5993
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a8/chunks.m3u8?is_vip=false&token=1788971562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-febc9dbd09806940ea497557a4a61c4c
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/MPZUFrJo/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Bahrain v Oman | Pool Phase | AVC Men's Continentals 2026 | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
