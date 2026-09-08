@@ -4877,7 +4877,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:02 PM 08-09-2026
+#LAST_UPDATE:09:32 PM 08-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -4888,36 +4888,51 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HH3SK2XN" tvg-name="Cricket Highlights-Women's T20 Asia Cup 2026: Bangladesh vs UAE - 12th Match" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.601285ab-4437-4ead-bc2c-c1b17cfe3579/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Cricket Highlights-Women's T20 Asia Cup 2026: Bangladesh vs UAE - 12th Match
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 9:17:25 PM 08-09-2026
+#last update time: 9:32:28 PM 08-09-2026
 
 #EXTINF:-1 tvg-id="55212" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2016.jpg" group-title="LIVE", Vuelta a España, Stage 16 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788967046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5e43ba6dc216508c6cc92235aa78f8d8
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1788967949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ca2ebc1d6d218bafacb1e5cd3cf0f774
 
-#EXTINF:-1 tvg-id="60253" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20U19%20vs%20Internazionale%20U19.jpg" group-title="LIVE", Real Madrid U19 vs Internazionale U19 - UEFA Youth League
+#EXTINF:-1 tvg-id="60253" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20U19%20vs%20Internazionale%20U19.jpg" group-title="LIVE", Real Madrid U19 vs Internazionale U19 - UEFA Youth League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1163/chunks.m3u8?is_vip=false&token=1788967048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c6fd1be8c9d5a25dae0056951efc90b5
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1163-backup/chunks.m3u8?is_vip=false&token=1788967950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45480412abdb6465e334526142a59103
+
+#EXTINF:-1 tvg-id="60253" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Real%20Madrid%20U19%20vs%20Internazionale%20U19.jpg" group-title="LIVE", Real Madrid U19 vs Internazionale U19 - UEFA Youth League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a987955e8a66eebd8ca1163/chunks.m3u8?is_vip=false&token=1788967951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-92e2dd6d9908d416a8ed721e5f05cab0
 
 #EXTINF:-1 tvg-id="65087" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="LIVE", Us open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788967049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-821f31e0d29e0e4b281776d20a95b8ee
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1788967952-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8bd9c717f30815d8643ba64e34a699ef
+
+#EXTINF:-1 tvg-id="45606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ettifaq%20vs%20Al-Faisaly%20FC.jpg" group-title="LIVE", Al-Ettifaq vs Al-Faisaly FC - Pro League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a5-fhd/chunks.m3u8?is_vip=false&token=1788967954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-154d5af1f29c0b1489838a6dfa6949ce
+
+#EXTINF:-1 tvg-id="45606" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Al-Ettifaq%20vs%20Al-Faisaly%20FC.jpg" group-title="LIVE", Al-Ettifaq vs Al-Faisaly FC - Pro League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a7f3488b6fa125e7d0fb2a5/chunks.m3u8?is_vip=false&token=1788967954-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9811dea59a9299e8c8b90dcea562395b
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/MPZUFrJo/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Bahrain v Oman | Pool Phase | AVC Men's Continentals 2026 | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
