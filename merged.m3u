@@ -4953,7 +4953,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:08:32 PM 09-09-2026
+#LAST_UPDATE:09:02 PM 09-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -4973,49 +4973,49 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-id="B0HJ6TCYMZ" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.11d78db0-4b10-48e7-89bb-69ad16e488f5/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
+#EXTINF:-1 tvg-id="B0HHXRXTS9" tvg-name="Superfinal: Italy vs. Poland" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1fc5661f-f5b4-4286-9b1f-d7eda312a9a8/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Superfinal: Italy vs. Poland
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uenudg4x6g/out/v1/8b25f245771b4e5698d914b941c54982/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xuduw3ueoe/out/v1/1f4214b57faf489fa608906bec814ec3/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 8:47:26 PM 09-09-2026
+#last update time: 9:02:30 PM 09-09-2026
 
 #EXTINF:-1 tvg-id="65134" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789051648-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a925b982cfed5b9b3b7c1fc66dfea256
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789052552-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-de5a36c18b61e5e33faf0bc80131e6da
 
 #EXTINF:-1 tvg-id="65135" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Secondo%20turno.jpg" group-title="LIVE", Secondo turno - World Snooker Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789051649-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b5252e874451799fbe2a156a12e2e226
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1789052554-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c3454335da8ba673633a125ebde437bf
 
 #EXTINF:-1 tvg-id="55213" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Vuelta%20a%20Espa%C3%B1a%2C%20Stage%2017.jpg" group-title="LIVE", Vuelta a España, Stage 17 - La Vuelta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1789051650-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-498cf3f55f228aff01c090da7606bbed
+https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1789052555-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-725e9d0e186ce6507d03ae2d77de0c4d
 
-#EXTINF:-1 tvg-id="60258" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20CP%20U19%20vs%20Galatasaray%20U18.jpg" group-title="LIVE", Sporting CP U19 vs Galatasaray U18 - UEFA Youth League [Server 1]
+#EXTINF:-1 tvg-id="60255" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20U19%20vs%20Atl%C3%A9tico%20Madrid%20U19.jpg" group-title="LIVE", Liverpool U19 vs Atlético Madrid U19 - UEFA Youth League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199653-backup/chunks.m3u8?is_vip=false&token=1789051652-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d23f96eef2f06bed3611d9155ebe61a1
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199656-backup/chunks.m3u8?is_vip=false&token=1789052556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d9571c043fa7fdbd196de1ce13c9394d
 
-#EXTINF:-1 tvg-id="60258" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Sporting%20CP%20U19%20vs%20Galatasaray%20U18.jpg" group-title="LIVE", Sporting CP U19 vs Galatasaray U18 - UEFA Youth League [Server 2]
+#EXTINF:-1 tvg-id="60255" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20U19%20vs%20Atl%C3%A9tico%20Madrid%20U19.jpg" group-title="LIVE", Liverpool U19 vs Atlético Madrid U19 - UEFA Youth League [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199653/chunks.m3u8?is_vip=false&token=1789051653-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fbc68becd11c3eb243e1dc88dddaa6c2
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199656/chunks.m3u8?is_vip=false&token=1789052557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0aeb88767eb2e8bd47cc1cf7333b6e9a
 
-#EXTINF:-1 tvg-id="60255" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Liverpool%20U19%20vs%20Atl%C3%A9tico%20Madrid%20U19.jpg" group-title="LIVE", Liverpool U19 vs Atlético Madrid U19 - UEFA Youth League
+#EXTINF:-1 tvg-id="65133" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Us%20open.jpg" group-title="Tennis", Us open - US Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a988774e4f896100f199656-backup/chunks.m3u8?is_vip=false&token=1789051655-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-20e64bb5b4377d67ae31fcb0cfcff1a4
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789052560-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-887bf04ac33dbbfe3c0136100485d578
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/GKIBMD3i/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Thailand v Australia | Playoffs | AVC Men's Continentals 2026 | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
