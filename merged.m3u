@@ -4958,7 +4958,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:05:02 PM 10-09-2026
+#LAST_UPDATE:05:32 PM 10-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -4969,31 +4969,41 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HHYCTGTN" tvg-name="The Morning Drive" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.946a682b-3b9f-46ec-a7c7-47e08b57ab1d/2/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",The Morning Drive
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e14535ab02e4065cc846047f1feee48d:a51c5c164f9a6b0ae751afeec7f85052
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vax19ewjes/out/v1/f077d112d47e4a899664fa27031ba9fa/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 5:17:21 PM 10-09-2026
+#last update time: 5:32:23 PM 10-09-2026
 
 #EXTINF:-1 tvg-id="61004" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Canterbury-Bankstown%20Bulldogs%20vs%20Sydney%20Roosters.jpg" group-title="LIVE", Canterbury-Bankstown Bulldogs vs Sydney Roosters - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789125441-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e7d9617e01844e00cb96eb36d51a0d62
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789126344-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-edd7959d419fb20405e594991aa5c5aa
 
 #EXTINF:-1 tvg-id="55726" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Pakistan.jpg" group-title="LIVE", England vs Pakistan - 3rd Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789125443-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-929d540e15e7328bd63d8a84a58dafbf
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789126345-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b3cbd52893f4f3d23b715b1977c42e0b
+
+#EXTINF:-1 tvg-id="60262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbahce%20U19%20vs%20Roma%20U19.jpg" group-title="LIVE", Fenerbahce U19 vs Roma U19 - UEFA Youth League [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adb-backup/chunks.m3u8?is_vip=false&token=1789126346-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e96b7a3b064a3cfa52e220b326e2e096
+
+#EXTINF:-1 tvg-id="60262" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Fenerbahce%20U19%20vs%20Roma%20U19.jpg" group-title="LIVE", Fenerbahce U19 vs Roma U19 - UEFA Youth League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a989569a903b20f18349adb/chunks.m3u8?is_vip=false&token=1789126348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0a238f3717703e35d3e181b0357bbcc4
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/MrUA6GrW/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Korea v China | Playoffs | AVC Men's Continentals 2026 | 17:20 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
