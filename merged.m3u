@@ -4983,17 +4983,12 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 2:02:24 PM 10-09-2026
+#last update time: 2:17:22 PM 10-09-2026
 
 #EXTINF:-1 tvg-id="55779" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Manawat%C5%AB%20vs%20Taranaki.jpg" group-title="LIVE", Manawatū vs Taranaki - NPC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789113745-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d781d0f5df493016106889544fd17454
-
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/GKIBMD3i/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Thailand v Australia | Playoffs | AVC Men's Continentals 2026 | 13:20 WIB
-#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-GKIBMD3i
+https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1789114643-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-d2b7cea230b9aba5754dc1e81d597387
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/MrUA6GrW/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Korea v China | Playoffs | AVC Men's Continentals 2026 | 17:20 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
@@ -5039,4 +5034,9 @@ https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-Pk3E3M9c
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-aX9ACS5D
+
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/sIIfQNQR/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Cuba v Guatemala | Pool Phase | 2026 Men's Norceca Continental Championships | 01 January 0001 | 07:07 WIB
+#EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-sIIfQNQR
 
