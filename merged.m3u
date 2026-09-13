@@ -4978,7 +4978,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:02 AM 13-09-2026
+#LAST_UPDATE:11:32 AM 13-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:2
@@ -4989,66 +4989,61 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HH8K5SMK" tvg-name="Southland v Bay of Plenty" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.1fb90016-26eb-46b5-b4f2-b6692b32ff7d/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Southland v Bay of Plenty
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:17:22 AM 13-09-2026
+#last update time: 11:32:23 AM 13-09-2026
 
 #EXTINF:-1 tvg-id="64112" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weekend%206%2C%20Day%203.jpg" group-title="LIVE", Weekend 6, Day 3 - Australian Darts Association
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114416/720p/chunks.m3u8?is_vip=false&token=1789363043-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8454178688e972523d1df5585bd338cd
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114416/720p/chunks.m3u8?is_vip=false&token=1789363944-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9c864dcefb272c8854838ea4fca225df
 
 #EXTINF:-1 tvg-id="64113" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Tour%2027%E2%80%9328.jpg" group-title="LIVE", Asian Tour 27–28 - Asian Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114417/720p/chunks.m3u8?is_vip=false&token=1789363045-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-efbd1d6aadef22772d66c6da57c25b42
-
-#EXTINF:-1 tvg-id="59323" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruz%20Azul%20vs%20Club%20America.jpg" group-title="LIVE", Cruz Azul vs Club America - Liga MX [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a434-hd/chunks.m3u8?is_vip=false&token=1789363046-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-69c92e0c3e8cee7382f6442af995958f
-
-#EXTINF:-1 tvg-id="59323" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruz%20Azul%20vs%20Club%20America.jpg" group-title="LIVE", Cruz Azul vs Club America - Liga MX [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a434-backup/chunks.m3u8?is_vip=false&token=1789363047-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c41f25b9faea1b8455a11de687d8f9e9
-
-#EXTINF:-1 tvg-id="59323" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Cruz%20Azul%20vs%20Club%20America.jpg" group-title="LIVE", Cruz Azul vs Club America - Liga MX [Server 3]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a85cc6b8f7c293f9fe4a434/chunks.m3u8?is_vip=false&token=1789363048-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-3f6499a0302cd30b1fd2f7ce0119a5af
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114417/720p/chunks.m3u8?is_vip=false&token=1789363946-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9df960769153633ca0a3781b1cc60a0c
 
 #EXTINF:-1 tvg-id="61009" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Gold%20Coast%20Titans%20vs%20Newcastle%20Knights.jpg" group-title="LIVE", Gold Coast Titans vs Newcastle Knights - NRL Women's Premiership
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789363049-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eb25bb1c34edfcf8d64a8184b5b70357
+https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789363948-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8e3a6051f01c43a7ef306e1e6a084dfe
 
 #EXTINF:-1 tvg-id="65241" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weston%20Bears%20vs%20Maitland.jpg" group-title="LIVE", Weston Bears vs Maitland - Northern NSW NPL [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa197e4b6fa125e7d4beae6-backup/chunks.m3u8?is_vip=false&token=1789363051-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2cf5db9937ab7f21e068df83c22cf842
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa197e4b6fa125e7d4beae6-backup/chunks.m3u8?is_vip=false&token=1789363949-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a777a265362f8971dd17b0c69abfdf57
 
 #EXTINF:-1 tvg-id="65241" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Weston%20Bears%20vs%20Maitland.jpg" group-title="LIVE", Weston Bears vs Maitland - Northern NSW NPL [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa197e4b6fa125e7d4beae6/chunks.m3u8?is_vip=false&token=1789363052-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e5e9628f808518c81bb021392bd512bc
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6aa197e4b6fa125e7d4beae6/chunks.m3u8?is_vip=false&token=1789363950-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-13d66e80c0402765f2adfd1d558a589d
 
 #EXTINF:-1 tvg-id="60999" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Race%20Day%20Part%201%20China.jpg" group-title="LIVE", Race Day Part 1: China - MXGP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/208/720p/chunks.m3u8?is_vip=false&token=1789363053-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b4bbbfe1e586804310babe7458b01959
+https://livecdn-tc-iptv.rumsport10.live/live_abr/238/720p/chunks.m3u8?is_vip=false&token=1789363951-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2d919321d80278ff9d1d9255c179d304
+
+#EXTINF:-1 tvg-id="65242" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APIA%20Leichhardt%20Tigers%20vs%20Sydney%20United.jpg" group-title="LIVE", APIA Leichhardt Tigers vs Sydney United - New South Wales NPL [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9dcd6e5213cd25c02fd9ea-backup/chunks.m3u8?is_vip=false&token=1789363953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-777835a9c90a0225c8ab99014b1a8a05
+
+#EXTINF:-1 tvg-id="65242" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/APIA%20Leichhardt%20Tigers%20vs%20Sydney%20United.jpg" group-title="LIVE", APIA Leichhardt Tigers vs Sydney United - New South Wales NPL [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a9dcd6e5213cd25c02fd9ea/chunks.m3u8?is_vip=false&token=1789363953-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-fa2ed8f17d738c609ca6e71dcc99a266
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/Y3r4SDq4/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="",Cuba v Dominican Republic | Pool Phase | 2026 Men's Norceca Continental Championships | 12 September 2026 | 02:20 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
