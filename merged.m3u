@@ -4978,7 +4978,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:11:32 AM 14-09-2026
+#LAST_UPDATE:12:02 PM 14-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -4989,29 +4989,29 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 11:47:21 AM 14-09-2026
+#last update time: 12:02:36 PM 14-09-2026
 
 #EXTINF:-1 tvg-id="64116" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Championship.jpg" group-title="LIVE", Asian Championship - Asian Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789451242-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-f42114b3582c7eae579f6a076be05e38
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789452158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5702a333bad7f1d88562fdaf877d17cc
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/wcBYBURV/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",TBC v TBC | Playoffs | 2026 Men's Norceca Continental Championships | 15 September 2026 | 02:20 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/kE8OhHuj/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Cuba v Puerto Rico | Playoffs | 2026 Men's Norceca Continental Championships | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-wcBYBURV
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-kE8OhHuj
 
-#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/awY9Wy2T/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",TBC v TBC | Playoffs | 2026 Men's Norceca Continental Championships | 15 September 2026 | 04:50 WIB
+#EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/zMM25qrY/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Mexico v Dominican Republic | Playoffs | 2026 Men's Norceca Continental Championships | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-awY9Wy2T
+https://colloriptvpro.biz.id/micin/hls.m3u8?id=stx-zMM25qrY
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/KO95SFvK/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",TBC v TBC | Playoffs | 2026 Men's Norceca Continental Championships | 15 September 2026 | 20:50 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
