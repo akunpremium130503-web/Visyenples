@@ -4978,7 +4978,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:02 AM 14-09-2026
+#LAST_UPDATE:10:32 AM 14-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -4989,24 +4989,19 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:17:22 AM 14-09-2026
-
-#EXTINF:-1 tvg-id="61727" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Dallas%20Cowboys%20vs%20New%20York%20Giants.jpg" group-title="LIVE", Dallas Cowboys vs New York Giants - NFL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/52469/720p/chunks.m3u8?is_vip=false&token=1789445844-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-91231313b29981fcd62e06e009314a99
+#last update time: 10:32:24 AM 14-09-2026
 
 #EXTINF:-1 tvg-id="64116" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Asian%20Championship.jpg" group-title="LIVE", Asian Championship - Asian Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789445846-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-81391a95234a3e90be38b26761b30634
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789446746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ed05482e202ca97b2a2c06fd5a7107e3
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/wcBYBURV/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",TBC v TBC | Playoffs | 2026 Men's Norceca Continental Championships | 15 September 2026 | 02:20 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
