@@ -4978,7 +4978,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:32 PM 17-09-2026
+#LAST_UPDATE:10:02 PM 17-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:3
@@ -4989,41 +4989,51 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HG9XXYHK" tvg-name="Rotterdam Dockers vs. Dublin Guardians" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.d314c7df-ce80-4196-8aff-86193c029df3/1/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Rotterdam Dockers vs. Dublin Guardians
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 9:47:23 PM 17-09-2026
+#last update time: 10:02:26 PM 17-09-2026
 
 #EXTINF:-1 tvg-id="65037" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Afghanistan%20vs%20India.jpg" group-title="LIVE", Afghanistan vs India - India tour of Afghanistan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789746447-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-80e075748c2175ec5ff68136d8ca9a91
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789747348-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-639f617a903caa9aaa052801706ba868
 
-#EXTINF:-1 tvg-id="62336" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Akron%20vs%20Akhmat.jpg" group-title="LIVE", Akron vs Akhmat - Premier League
+#EXTINF:-1 tvg-id="62336" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Akron%20vs%20Akhmat.jpg" group-title="LIVE", Akron vs Akhmat - Premier League [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a987/chunks.m3u8?is_vip=false&token=1789746451-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-b36bc5e53a112fc219fd39cbf127c167
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a987-fhd/chunks.m3u8?is_vip=false&token=1789747353-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2bcdd7a769c2102fe8bab3aebe0a83f6
+
+#EXTINF:-1 tvg-id="62336" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Akron%20vs%20Akhmat.jpg" group-title="LIVE", Akron vs Akhmat - Premier League [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a987/chunks.m3u8?is_vip=false&token=1789747355-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c817aa8903a26976fefffedd135471d9
 
 #EXTINF:-1 tvg-id="62337" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/FC%20Rostov%20vs%20Dynamo.jpg" group-title="LIVE", FC Rostov vs Dynamo - Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a986/chunks.m3u8?is_vip=false&token=1789746454-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f644a334ba14a9c63f4b265f7fb8c01
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8b121293add94b3746a986/chunks.m3u8?is_vip=false&token=1789747357-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c0effca13b8282c2c820d2abb7161547
 
 #EXTINF:-1 tvg-id="65045" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/England%20vs%20Sri%20Lanka.jpg" group-title="LIVE", England vs Sri Lanka - 2nd T20I
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789746455-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6b0305110e1c6e000dc8fc1b18f85315
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789747365-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1116ef3176e1badb37ee441312aa7f8d
+
+#EXTINF:-1 tvg-id="61652" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Orduspor%201967%20vs%20Torul%20Belediye%20Genclik.jpg" group-title="LIVE", Orduspor 1967 vs Torul Belediye Genclik - Türkiye Kupası
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a96630093add94b37a7fc0f/chunks.m3u8?is_vip=false&token=1789747367-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-7ddc66e0f0d599fd99087c3119cff9f8
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/9tajHEBN/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Canada v Mexico | Playoffs | 2026 Men's Norceca Continental Championships | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
