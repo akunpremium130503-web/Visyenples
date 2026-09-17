@@ -4978,7 +4978,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:32 AM 17-09-2026
+#LAST_UPDATE:11:02 AM 17-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -4989,7 +4989,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bd0136d2728be3d6506cfe054a3fd59:27ae4995704be63440c0dcb001b2abbd
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HCNCGLGM" tvg-name="Alianza FC vs. Motagua" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ddaa403f-7070-4cac-b1f7-b3e3a3b6106a/9/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Alianza FC vs. Motagua
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5010,34 +5010,29 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3e2jwzlivy/out/v1/8093f930120e4a9ca62422f5b18ded4f/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:47:23 AM 17-09-2026
-
-#EXTINF:-1 tvg-id="65064" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Seattle%20Mariners%20vs%20Los%20Angeles%20Angels.jpg" group-title="LIVE", Seattle Mariners vs Los Angeles Angels - MLB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55848/720p/chunks.m3u8?is_vip=false&token=1789706843-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-8f5abc7748e2f0a4c86384ba803a1b36
+#last update time: 11:02:25 AM 17-09-2026
 
 #EXTINF:-1 tvg-id="62320" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Alianza%20vs%20CD%20Motagua.jpg" group-title="LIVE", Alianza vs CD Motagua - CONCACAF Central American Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a98f7defbc4c8ef09f21fcf/chunks.m3u8?is_vip=false&token=1789706845-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a4cf7f01e3b33e900b2da2f12e6f2997
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a98f7defbc4c8ef09f21fcf/chunks.m3u8?is_vip=false&token=1789707746-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-eea893bdfb6af2492929b00ebb8b9651
 
 #EXTINF:-1 tvg-id="69946" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%203.jpg" group-title="LIVE", Day 3 - FIBA 3x3 U23 World Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789706849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-700b3277a215c0c7e57d74d03d88dacb
+https://livecdn-tc-iptv.rumsport10.live/live_abr/274846/720p/chunks.m3u8?is_vip=false&token=1789707750-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-74aba33b4e73ee8ebfbd0f85279b9a9d
 
 #EXTINF:-1 tvg-id="69205" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Pakistan%20vs%20Thailand%20-%202nd%20Quarter-Final.jpg" group-title="LIVE", Pakistan vs Thailand - 2nd Quarter-Final - Women's Asian Games 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789706850-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-da9c1c0ebef7d6023f13159956c3080c
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789707752-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5c41fcb1ade2377cb3a4fde93b380373
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/9tajHEBN/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",TBC v TBC | Playoffs | 2026 Men's Norceca Continental Championships | 19 September 2026 | 02:20 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
