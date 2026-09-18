@@ -4978,10 +4978,10 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:09:32 PM 18-09-2026
+#LAST_UPDATE:10:02 PM 18-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
-#LIVE_COUNT:3
+#LIVE_COUNT:4
 #UPCOMING_COUNT:0
 
 #EXTINF:-1 tvg-id="B0HG14DN4Z" tvg-name="Green Mountain Championship, Round 2" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.b76dc974-5668-48f2-a729-7276d6636229/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Green Mountain Championship, Round 2
@@ -4989,41 +4989,26 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HJNN82QG" tvg-name="PPA Tour: Arizona Open-Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ad09cb56-a430-468e-aabc-dcac792d20c4/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Arizona Open-Round of 16
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 9:47:27 PM 18-09-2026
-
-#EXTINF:-1 tvg-id="62946" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Zenit%20U19%20vs%20Spartak%20Moskva%20U19.jpg" group-title="LIVE", Zenit U19 vs Spartak Moskva U19 - Youth Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f388600/chunks.m3u8?is_vip=false&token=1789832849-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-388dd004a0c8982758b88121b97afa62
-
-#EXTINF:-1 tvg-id="62947" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Rostov%20U19%20vs%20Almaz%20Antey%20U19.jpg" group-title="LIVE", Rostov U19 vs Almaz Antey U19 - Youth Championship
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8c637e96e1cc910f388605/chunks.m3u8?is_vip=false&token=1789832851-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1d1d569f4d179818d3bbc5a9ae101c2b
-
-#EXTINF:-1 tvg-id="65085" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America's%20Day%20At%20the%20Races.jpg" group-title="LIVE", America's Day At the Races - Horse Racing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/450/720p/chunks.m3u8?is_vip=false&token=1789832872-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5c6166db1a9c86f0f4d93eb5236c5654
+#last update time: 10:02:26 PM 18-09-2026
 
 #EXTINF:-1 tvg-id="62967" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ML%20Vitebsk%20vs%20Arsenal.jpg" group-title="LIVE", ML Vitebsk vs Arsenal - Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abccc/chunks.m3u8?is_vip=false&token=1789832877-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-bf035a2496645c4cb5d38fa7b58212a0
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abccc/chunks.m3u8?is_vip=false&token=1789833755-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-5cab63d05d4514b4eaf9cce36268ac1e
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/9tajHEBN/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Canada v Mexico | Playoffs | 2026 Men's Norceca Continental Championships | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
