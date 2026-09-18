@@ -4978,7 +4978,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:04:02 AM 19-09-2026
+#LAST_UPDATE:04:32 AM 19-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:6
@@ -4989,7 +4989,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b74568d74a6d7f5d2a07d903f820cdb1:ea92e2f4ec746aa5e64fd9c4fc6ed3e9
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/n0gubjzzdn/out/v1/4a96409cca884f9780798b74a4a90017/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HG5X8N87" tvg-name="East Division Championship: Kane County Cougars at Milwaukee Milkmen" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.2801963c-7e73-4e13-977b-af4e84e24815/5/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",East Division Championship: Kane County Cougars at Milwaukee Milkmen
 #KODIPROP:inputstream=inputstream.adaptive
@@ -5003,51 +5003,56 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bg4402bdnz/out/v1/466e19ef15204befaa3ee4eda7d6cd24/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HG1XM9XZ" tvg-name="Tennis Today Live-Davis Cup Qualifiers 2nd Round CAN vs. FRA Rubbers 1 & 2; Sao Paulo-WTA Quarterfinals" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.95f8163f-e3d2-4f75-a541-38f20c40b052/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",Tennis Today Live-Davis Cup Qualifiers 2nd Round CAN vs. FRA Rubbers 1 & 2; Sao Paulo-WTA Quarterfinals
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 4:17:24 AM 19-09-2026
+#last update time: 4:32:26 AM 19-09-2026
 
 #EXTINF:-1 tvg-id="65078" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Biltmore%20Championship%20%20Day%202.jpg" group-title="LIVE", Biltmore Championship | Day 2 - PGA Tour
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1789856245-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-597452f026eaf2a5fc38eabb5bf67f2d
+https://livecdn-tc-iptv.rumsport10.live/live_abr/287/720p/chunks.m3u8?is_vip=false&token=1789857147-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-e040e5a2ec73b1ed073537e498e5af58
 
 #EXTINF:-1 tvg-id="63035" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Central%20Cordoba%20de%20Santiago%20vs%20Defensa%20Y%20Justicia.jpg" group-title="LIVE", Central Cordoba de Santiago vs Defensa Y Justicia - Liga Profesional Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a905812e9d80a100c5fb2b3/chunks.m3u8?is_vip=false&token=1789856247-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-598e79d6fcc1e849f900d4b45808acaf
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a905812e9d80a100c5fb2b3/chunks.m3u8?is_vip=false&token=1789857149-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ce8d6edd82c0df3fa03f7a858f0254ab
 
 #EXTINF:-1 tvg-id="70930" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/WTA%20Guadalajara.jpg" group-title="LIVE", WTA Guadalajara - WTA Guadalajara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789856249-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-825d6db1626c3cf216c54d935da374d1
+https://livecdn-tc-iptv.rumsport10.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=1789857151-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0c3455a3ebf6c8b546adb2d49bd2b681
 
 #EXTINF:-1 tvg-id="65131" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/America's%20Day%20At%20the%20Races.jpg" group-title="LIVE", America's Day At the Races - Horse Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1789856251-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-a2bbcc1bd7a4a65190ac1353b02cad80
+https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1789857153-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0d3211610c960f12e51180a0df17024e
 
-#EXTINF:-1 tvg-id="65096" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Cubs%20vs%20Cincinnati%20Reds.jpg" group-title="Baseball", Chicago Cubs vs Cincinnati Reds - MLB
+#EXTINF:-1 tvg-id="65096" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Chicago%20Cubs%20vs%20Cincinnati%20Reds.jpg" group-title="LIVE", Chicago Cubs vs Cincinnati Reds - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789856258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-91c8d5f5788e7576c0364ffb6a6f9c81
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=1789857156-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-45e21f20903fabe7c5d2326961d608ad
 
-#EXTINF:-1 tvg-id="65097" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Pittsburgh%20Pirates.jpg" group-title="Baseball", Kansas City Royals vs Pittsburgh Pirates - MLB
+#EXTINF:-1 tvg-id="65097" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Kansas%20City%20Royals%20vs%20Pittsburgh%20Pirates.jpg" group-title="LIVE", Kansas City Royals vs Pittsburgh Pirates - MLB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1789856258-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-2846f014931e772bd9a2d0598d1826a5
+https://livecdn-tc-iptv.rumsport10.live/live_abr/55836/720p/chunks.m3u8?is_vip=false&token=1789857158-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-390f5118d77b02c8c10a42db4c47b0a1
+
+#EXTINF:-1 tvg-id="65091" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/TBA%20vs%20TBA.jpg" group-title="Cricket", TBA vs TBA - CPL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1789857162-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-254e2fd028a72bf51a1b4fe18a3152fa
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/LaFfWHwk/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SEKARANG",Cuba v Dominican Republic | Playoffs | 2026 Men's Norceca Continental Championships | 04:50 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
