@@ -4978,7 +4978,7 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 
 
 #PLAYLIST:Prime Video Free Sports
-#LAST_UPDATE:10:02 PM 18-09-2026
+#LAST_UPDATE:10:32 PM 18-09-2026
 #TELEGRAM:https://t.me/livesportsplay
 #OWNER:Md Sohanur Rahman Hady
 #LIVE_COUNT:4
@@ -4989,41 +4989,51 @@ https://api-mbed.my.id/yuttup.m3u8?id=UCNMg6XDhRZI2QzL4pWOvP_w
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfa8e3854cb8ae706b7b28f22b16cbe2:c8dad1be3999d0aee9bf702316a03f6b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ugvo0vho9p/out/v1/fc7d1d525ec34aa589a2f02f40c92791/cenc.mpd
 
 #EXTINF:-1 tvg-id="B0HJNN82QG" tvg-name="PPA Tour: Arizona Open-Round of 16" tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/S/le-target-images-prod/amzn1.dv.gti.ad09cb56-a430-468e-aabc-dcac792d20c4/3/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpg" group-title="Prime Video Sports",PPA Tour: Arizona Open-Round of 16
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2be100252a42be3a17d29c93e28eaacc:07c5e72df3602e9652dd06d839776e72
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/can8dnk7we/out/v1/d6c56496531749a6989b78ab18c67557/cenc.mpd
 
 
 #name: Axsports Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
 #special thanks to: MR. Joy Chowdhury
-#last update time: 10:17:24 PM 18-09-2026
+#last update time: 10:32:23 PM 18-09-2026
 
-#EXTINF:-1 tvg-id="62967" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/ML%20Vitebsk%20vs%20Arsenal.jpg" group-title="LIVE", ML Vitebsk vs Arsenal - Premier League
+#EXTINF:-1 tvg-id="62973" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20vs%20SV%20Darmstadt%2098.jpg" group-title="LIVE", VfL Wolfsburg vs SV Darmstadt 98 - 2. Bundesliga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522fd629e492f4abccc/chunks.m3u8?is_vip=false&token=1789834659-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c8fb25d38632976849d06ef76d3cecf9
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58000-fhd/chunks.m3u8?is_vip=false&token=1789835556-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-c453b101b2cec91ee153a9ab2656f92d
 
-#EXTINF:-1 tvg-id="62972" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SpVgg%20Greuther%20F%C3%BCrth%20vs%201.%20FC%20Magdeburg.jpg" group-title="LIVE", SpVgg Greuther Fürth vs 1. FC Magdeburg - 2. Bundesliga [Server 1]
+#EXTINF:-1 tvg-id="62973" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/VfL%20Wolfsburg%20vs%20SV%20Darmstadt%2098.jpg" group-title="LIVE", VfL Wolfsburg vs SV Darmstadt 98 - 2. Bundesliga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58008-fhd/chunks.m3u8?is_vip=false&token=1789834673-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-6e8b81d619ffbb0d87ac2806f3de861a
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58000/chunks.m3u8?is_vip=false&token=1789835557-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-00fd4bbf16757f56f0e8d83db324f6a9
 
-#EXTINF:-1 tvg-id="62972" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SpVgg%20Greuther%20F%C3%BCrth%20vs%201.%20FC%20Magdeburg.jpg" group-title="LIVE", SpVgg Greuther Fürth vs 1. FC Magdeburg - 2. Bundesliga [Server 2]
+#EXTINF:-1 tvg-id="62972" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/SpVgg%20Greuther%20F%C3%BCrth%20vs%201.%20FC%20Magdeburg.jpg" group-title="LIVE", SpVgg Greuther Fürth vs 1. FC Magdeburg - 2. Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58008/chunks.m3u8?is_vip=false&token=1789834674-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-ee90ac1b02971c7da5e0a285beeeb57e
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8db522e4f896100fb58008/chunks.m3u8?is_vip=false&token=1789835558-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1c2c2c9c2506f3951c08c56eb80e6f8e
 
 #EXTINF:-1 tvg-id="62976" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/1899%20Hoffenheim%20W%20vs%20VfL%20Wolfsburg%20W.jpg" group-title="LIVE", 1899 Hoffenheim W vs VfL Wolfsburg W - Frauen Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09baa-fhd/chunks.m3u8?is_vip=false&token=1789834674-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-0fb5ea16d9badeb1c7948d0a07a75632
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09baa-fhd/chunks.m3u8?is_vip=false&token=1789835562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1046fedc351ccc3d534423154970fdf8
+
+#EXTINF:-1 tvg-id="62977" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Mainz%2005%20W%20vs%20Eintracht%20Frankfurt%20W.jpg" group-title="LIVE", Mainz 05 W vs Eintracht Frankfurt W - Frauen Bundesliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-livestream.rumsport10.live/sla/1-6a8f06987cb66c539aa09ba9/chunks.m3u8?is_vip=false&token=1789835567-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-dd40e7c584ef05d4ecf973bc341113de
+
+#EXTINF:-1 tvg-id="66641" tvg-logo="https://raw.githubusercontent.com/srhady/axsports/main/bing_posters/Day%202%20-%20Evening%20Session.jpg" group-title="Darts", Day 2 - Evening Session - World Series of Darts Finals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
+https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1789835593-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-9f341b1348f33f268ac57f3496023839
 
 #EXTINF:1 tvg-logo="https://cdn.jwplayer.com/v2/media/9tajHEBN/poster.jpg?width=320" group-logo="https://i.imgur.com/xOJsVov.png" group-title="LIVE SELANJUTNYA",Canada v Mexico | Playoffs | 2026 Men's Norceca Continental Championships | 01 January 0001 | 07:07 WIB
 #EXTVLCOPT:http-origin=https://kalanchoe.micinproject.de
